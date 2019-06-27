@@ -1,0 +1,3017 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://foo.ngrok.io/iiif_manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Parent Record; Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+  "metadata": [
+    {
+      "label": "Description",
+      "value": "Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, containing plats of all townships with owners' names, also Minnesota state map showing automobile roads, maps of the United States and the world, an outline map of the county showing the location of townships, villages, roads, schools, churches, railroads and streams."
+    },
+    {
+      "label": "Creator",
+      "value": "Webb Publishing Co."
+    },
+    {
+      "label": "Keywords",
+      "value": "Real property -- Minnesota -- Lincoln County -- Maps"
+    }
+  ],
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2366/info.json",
+          "@type": "sc:Canvas",
+          "label": "01 Front Cover; Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2366/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2366/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2366",
+                  "height": 5185,
+                  "width": 4144,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4144,
+                      "height": 5185
+                    },
+                    {
+                      "width": 2072,
+                      "height": 2593
+                    },
+                    {
+                      "width": 1036,
+                      "height": 1296
+                    },
+                    {
+                      "width": 518,
+                      "height": 648
+                    },
+                    {
+                      "width": 259,
+                      "height": 324
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2367/info.json",
+          "@type": "sc:Canvas",
+          "label": "02 Front Pastedown; Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2367/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2367/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2367",
+                  "height": 5205,
+                  "width": 3771,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3771,
+                      "height": 5205
+                    },
+                    {
+                      "width": 1886,
+                      "height": 2603
+                    },
+                    {
+                      "width": 943,
+                      "height": 1301
+                    },
+                    {
+                      "width": 471,
+                      "height": 651
+                    },
+                    {
+                      "width": 236,
+                      "height": 325
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2368/info.json",
+          "@type": "sc:Canvas",
+          "label": "03 Title Page; Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2368/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2368/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2368",
+                  "height": 5163,
+                  "width": 3687,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3687,
+                      "height": 5163
+                    },
+                    {
+                      "width": 1844,
+                      "height": 2582
+                    },
+                    {
+                      "width": 922,
+                      "height": 1291
+                    },
+                    {
+                      "width": 461,
+                      "height": 645
+                    },
+                    {
+                      "width": 230,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2369/info.json",
+          "@type": "sc:Canvas",
+          "label": "04 Blank Page; Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2369/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2369/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2369",
+                  "height": 5205,
+                  "width": 3771,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3771,
+                      "height": 5205
+                    },
+                    {
+                      "width": 1886,
+                      "height": 2603
+                    },
+                    {
+                      "width": 943,
+                      "height": 1301
+                    },
+                    {
+                      "width": 471,
+                      "height": 651
+                    },
+                    {
+                      "width": 236,
+                      "height": 325
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2370/info.json",
+          "@type": "sc:Canvas",
+          "label": "Outline Map of Lincoln County, Minnesota, 1915.; Page 3: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2370/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2370/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2370",
+                  "height": 5163,
+                  "width": 3687,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3687,
+                      "height": 5163
+                    },
+                    {
+                      "width": 1844,
+                      "height": 2582
+                    },
+                    {
+                      "width": 922,
+                      "height": 1291
+                    },
+                    {
+                      "width": 461,
+                      "height": 645
+                    },
+                    {
+                      "width": 230,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2371/info.json",
+          "@type": "sc:Canvas",
+          "label": "06 Farmers' Directory of Hansonville Township.; Page 4: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2371/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2371/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2371",
+                  "height": 5205,
+                  "width": 3771,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3771,
+                      "height": 5205
+                    },
+                    {
+                      "width": 1886,
+                      "height": 2603
+                    },
+                    {
+                      "width": 943,
+                      "height": 1301
+                    },
+                    {
+                      "width": 471,
+                      "height": 651
+                    },
+                    {
+                      "width": 236,
+                      "height": 325
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2372/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Hansonville Township: Township 113 N, Range 46 W of the 5th PM.; Page 5: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2372/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2372/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2372",
+                  "height": 5163,
+                  "width": 3687,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3687,
+                      "height": 5163
+                    },
+                    {
+                      "width": 1844,
+                      "height": 2582
+                    },
+                    {
+                      "width": 922,
+                      "height": 1291
+                    },
+                    {
+                      "width": 461,
+                      "height": 645
+                    },
+                    {
+                      "width": 230,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2373/info.json",
+          "@type": "sc:Canvas",
+          "label": "08 Farmers' Directory of Marble Township.; Page 6: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2373/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2373/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2373",
+                  "height": 5150,
+                  "width": 3771,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3771,
+                      "height": 5150
+                    },
+                    {
+                      "width": 1886,
+                      "height": 2575
+                    },
+                    {
+                      "width": 943,
+                      "height": 1288
+                    },
+                    {
+                      "width": 471,
+                      "height": 644
+                    },
+                    {
+                      "width": 236,
+                      "height": 322
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2374/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Marble Township: Township 113 N, Range 45 W of the 5th PM.; Page 7: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2374/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2374/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2374",
+                  "height": 5163,
+                  "width": 3687,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3687,
+                      "height": 5163
+                    },
+                    {
+                      "width": 1844,
+                      "height": 2582
+                    },
+                    {
+                      "width": 922,
+                      "height": 1291
+                    },
+                    {
+                      "width": 461,
+                      "height": 645
+                    },
+                    {
+                      "width": 230,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2375/info.json",
+          "@type": "sc:Canvas",
+          "label": "10 Farmers' Directory of Alta Vista Township.; Page 8: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2375/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2375/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2375",
+                  "height": 5078,
+                  "width": 3606,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3606,
+                      "height": 5078
+                    },
+                    {
+                      "width": 1803,
+                      "height": 2539
+                    },
+                    {
+                      "width": 902,
+                      "height": 1270
+                    },
+                    {
+                      "width": 451,
+                      "height": 635
+                    },
+                    {
+                      "width": 225,
+                      "height": 317
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2376/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Alta Vista Township: Township 113 N, Range 44 W of the 5th PM.; Page 9: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2376/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2376/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2376",
+                  "height": 5163,
+                  "width": 3687,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3687,
+                      "height": 5163
+                    },
+                    {
+                      "width": 1844,
+                      "height": 2582
+                    },
+                    {
+                      "width": 922,
+                      "height": 1291
+                    },
+                    {
+                      "width": 461,
+                      "height": 645
+                    },
+                    {
+                      "width": 230,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2377/info.json",
+          "@type": "sc:Canvas",
+          "label": "12 Farmers' Directory of Hendricks Township.; Page 10: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2377/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2377/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2377",
+                  "height": 5080,
+                  "width": 3703,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3703,
+                      "height": 5080
+                    },
+                    {
+                      "width": 1852,
+                      "height": 2540
+                    },
+                    {
+                      "width": 926,
+                      "height": 1270
+                    },
+                    {
+                      "width": 463,
+                      "height": 635
+                    },
+                    {
+                      "width": 231,
+                      "height": 318
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2378/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Hendricks Township: Township 112 N, Range 46 W of the 5th PM.; Page 11: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2378/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2378/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2378",
+                  "height": 5163,
+                  "width": 3687,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3687,
+                      "height": 5163
+                    },
+                    {
+                      "width": 1844,
+                      "height": 2582
+                    },
+                    {
+                      "width": 922,
+                      "height": 1291
+                    },
+                    {
+                      "width": 461,
+                      "height": 645
+                    },
+                    {
+                      "width": 230,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2379/info.json",
+          "@type": "sc:Canvas",
+          "label": "14 Farmers' Directory of Royal Township.; Page 12: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2379/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2379/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2379",
+                  "height": 5113,
+                  "width": 3771,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3771,
+                      "height": 5113
+                    },
+                    {
+                      "width": 1886,
+                      "height": 2557
+                    },
+                    {
+                      "width": 943,
+                      "height": 1278
+                    },
+                    {
+                      "width": 471,
+                      "height": 639
+                    },
+                    {
+                      "width": 236,
+                      "height": 320
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2380/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Royal Township: Township 112 N, Range 45 W of the 5th PM.; Page 13: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2380/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2380/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2380",
+                  "height": 5163,
+                  "width": 3687,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3687,
+                      "height": 5163
+                    },
+                    {
+                      "width": 1844,
+                      "height": 2582
+                    },
+                    {
+                      "width": 922,
+                      "height": 1291
+                    },
+                    {
+                      "width": 461,
+                      "height": 645
+                    },
+                    {
+                      "width": 230,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2381/info.json",
+          "@type": "sc:Canvas",
+          "label": "16 Farmers' Directory of Limestone Township.; Page 14: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2381/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2381/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2381",
+                  "height": 5088,
+                  "width": 3645,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3645,
+                      "height": 5088
+                    },
+                    {
+                      "width": 1823,
+                      "height": 2544
+                    },
+                    {
+                      "width": 911,
+                      "height": 1272
+                    },
+                    {
+                      "width": 456,
+                      "height": 636
+                    },
+                    {
+                      "width": 228,
+                      "height": 318
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2382/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Limestone Township: Township 112 N, Range 44 W of the 5th PM.; Page 15: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2382/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2382/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2382",
+                  "height": 5163,
+                  "width": 3687,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3687,
+                      "height": 5163
+                    },
+                    {
+                      "width": 1844,
+                      "height": 2582
+                    },
+                    {
+                      "width": 922,
+                      "height": 1291
+                    },
+                    {
+                      "width": 461,
+                      "height": 645
+                    },
+                    {
+                      "width": 230,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2383/info.json",
+          "@type": "sc:Canvas",
+          "label": "18 Farmers' Directory of Shaokatan Township.; Page 16: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2383/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2383/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2383",
+                  "height": 5095,
+                  "width": 3771,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3771,
+                      "height": 5095
+                    },
+                    {
+                      "width": 1886,
+                      "height": 2548
+                    },
+                    {
+                      "width": 943,
+                      "height": 1274
+                    },
+                    {
+                      "width": 471,
+                      "height": 637
+                    },
+                    {
+                      "width": 236,
+                      "height": 318
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2384/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Shaokatan Township: Township 111 N, Range 46 W of the 5th PM.; Page 17: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2384/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2384/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2384",
+                  "height": 5163,
+                  "width": 3687,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3687,
+                      "height": 5163
+                    },
+                    {
+                      "width": 1844,
+                      "height": 2582
+                    },
+                    {
+                      "width": 922,
+                      "height": 1291
+                    },
+                    {
+                      "width": 461,
+                      "height": 645
+                    },
+                    {
+                      "width": 230,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2385/info.json",
+          "@type": "sc:Canvas",
+          "label": "20 Farmers' Directory of Ash Lake Township.; Page 18: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2385/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2385/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2385",
+                  "height": 5113,
+                  "width": 3771,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3771,
+                      "height": 5113
+                    },
+                    {
+                      "width": 1886,
+                      "height": 2557
+                    },
+                    {
+                      "width": 943,
+                      "height": 1278
+                    },
+                    {
+                      "width": 471,
+                      "height": 639
+                    },
+                    {
+                      "width": 236,
+                      "height": 320
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2386/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Ash Lake Township: Township 111 N, Range 45 W of the 5th PM.; Page 19: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2386/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2386/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2386",
+                  "height": 5163,
+                  "width": 3687,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3687,
+                      "height": 5163
+                    },
+                    {
+                      "width": 1844,
+                      "height": 2582
+                    },
+                    {
+                      "width": 922,
+                      "height": 1291
+                    },
+                    {
+                      "width": 461,
+                      "height": 645
+                    },
+                    {
+                      "width": 230,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2387/info.json",
+          "@type": "sc:Canvas",
+          "label": "22 Farmers' Directory of Lake Stay Township.; Page 20: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2387/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2387/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2387",
+                  "height": 5138,
+                  "width": 3771,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3771,
+                      "height": 5138
+                    },
+                    {
+                      "width": 1886,
+                      "height": 2569
+                    },
+                    {
+                      "width": 943,
+                      "height": 1285
+                    },
+                    {
+                      "width": 471,
+                      "height": 642
+                    },
+                    {
+                      "width": 236,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2388/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Lake Stay Township: Township 111 N, Range 44 W of the 5th PM.; Page 21: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2388/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2388/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2388",
+                  "height": 5163,
+                  "width": 3687,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3687,
+                      "height": 5163
+                    },
+                    {
+                      "width": 1844,
+                      "height": 2582
+                    },
+                    {
+                      "width": 922,
+                      "height": 1291
+                    },
+                    {
+                      "width": 461,
+                      "height": 645
+                    },
+                    {
+                      "width": 230,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2389/info.json",
+          "@type": "sc:Canvas",
+          "label": "24 Farmers' Directory of Drammen Township.; Page 22: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2389/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2389/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2389",
+                  "height": 5121,
+                  "width": 3695,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3695,
+                      "height": 5121
+                    },
+                    {
+                      "width": 1848,
+                      "height": 2561
+                    },
+                    {
+                      "width": 924,
+                      "height": 1280
+                    },
+                    {
+                      "width": 462,
+                      "height": 640
+                    },
+                    {
+                      "width": 231,
+                      "height": 320
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2390/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Drammen Township: Township 110 N, Range 46 W of the 5th PM.; Page 23: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2390/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2390/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2390",
+                  "height": 5163,
+                  "width": 3687,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3687,
+                      "height": 5163
+                    },
+                    {
+                      "width": 1844,
+                      "height": 2582
+                    },
+                    {
+                      "width": 922,
+                      "height": 1291
+                    },
+                    {
+                      "width": 461,
+                      "height": 645
+                    },
+                    {
+                      "width": 230,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2391/info.json",
+          "@type": "sc:Canvas",
+          "label": "26 Farmers' Directory of Diamond Lake Township.; Page 24: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2391/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2391/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2391",
+                  "height": 5096,
+                  "width": 3771,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3771,
+                      "height": 5096
+                    },
+                    {
+                      "width": 1886,
+                      "height": 2548
+                    },
+                    {
+                      "width": 943,
+                      "height": 1274
+                    },
+                    {
+                      "width": 471,
+                      "height": 637
+                    },
+                    {
+                      "width": 236,
+                      "height": 319
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2392/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Diamond Lake Township: Township 110 N, Range 45 W of the 5th PM.; Page 25: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2392/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2392/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2392",
+                  "height": 5163,
+                  "width": 3687,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3687,
+                      "height": 5163
+                    },
+                    {
+                      "width": 1844,
+                      "height": 2582
+                    },
+                    {
+                      "width": 922,
+                      "height": 1291
+                    },
+                    {
+                      "width": 461,
+                      "height": 645
+                    },
+                    {
+                      "width": 230,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2393/info.json",
+          "@type": "sc:Canvas",
+          "label": "28 Farmers' Directory of Marshfield Township.; Page 26: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2393/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2393/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2393",
+                  "height": 5105,
+                  "width": 3771,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3771,
+                      "height": 5105
+                    },
+                    {
+                      "width": 1886,
+                      "height": 2553
+                    },
+                    {
+                      "width": 943,
+                      "height": 1276
+                    },
+                    {
+                      "width": 471,
+                      "height": 638
+                    },
+                    {
+                      "width": 236,
+                      "height": 319
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2394/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Marshfield Township: Township 110 N, Range 44 W of the 5th PM.; Page 27: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2394/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2394/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2394",
+                  "height": 5163,
+                  "width": 3570,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3570,
+                      "height": 5163
+                    },
+                    {
+                      "width": 1785,
+                      "height": 2582
+                    },
+                    {
+                      "width": 893,
+                      "height": 1291
+                    },
+                    {
+                      "width": 446,
+                      "height": 645
+                    },
+                    {
+                      "width": 223,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2395/info.json",
+          "@type": "sc:Canvas",
+          "label": "30 Farmers' Directory of Verdi Township.; Page 28: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2395/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2395/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2395",
+                  "height": 5105,
+                  "width": 3771,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3771,
+                      "height": 5105
+                    },
+                    {
+                      "width": 1886,
+                      "height": 2553
+                    },
+                    {
+                      "width": 943,
+                      "height": 1276
+                    },
+                    {
+                      "width": 471,
+                      "height": 638
+                    },
+                    {
+                      "width": 236,
+                      "height": 319
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2396/info.json",
+          "@type": "sc:Canvas",
+          "label": "31 Map of Verdi Township: Township 109 N, Range 46 W of the 5th PM.; Page 29: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2396/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2396/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2396",
+                  "height": 5163,
+                  "width": 3626,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3626,
+                      "height": 5163
+                    },
+                    {
+                      "width": 1813,
+                      "height": 2582
+                    },
+                    {
+                      "width": 907,
+                      "height": 1291
+                    },
+                    {
+                      "width": 453,
+                      "height": 645
+                    },
+                    {
+                      "width": 227,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2397/info.json",
+          "@type": "sc:Canvas",
+          "label": "32 Farmers' Directory of Lake Benton Township.; Page 30: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2397/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2397/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2397",
+                  "height": 5096,
+                  "width": 3662,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3662,
+                      "height": 5096
+                    },
+                    {
+                      "width": 1831,
+                      "height": 2548
+                    },
+                    {
+                      "width": 916,
+                      "height": 1274
+                    },
+                    {
+                      "width": 458,
+                      "height": 637
+                    },
+                    {
+                      "width": 229,
+                      "height": 319
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2398/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Lake Benton Township: Township 109 N, Range 45 W of the 5th PM.; Page 31: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2398/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2398/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2398",
+                  "height": 5163,
+                  "width": 3687,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3687,
+                      "height": 5163
+                    },
+                    {
+                      "width": 1844,
+                      "height": 2582
+                    },
+                    {
+                      "width": 922,
+                      "height": 1291
+                    },
+                    {
+                      "width": 461,
+                      "height": 645
+                    },
+                    {
+                      "width": 230,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2399/info.json",
+          "@type": "sc:Canvas",
+          "label": "34 Farmers' Directory of Hope Township.; Page 32: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2399/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2399/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2399",
+                  "height": 5130,
+                  "width": 3719,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3719,
+                      "height": 5130
+                    },
+                    {
+                      "width": 1860,
+                      "height": 2565
+                    },
+                    {
+                      "width": 930,
+                      "height": 1283
+                    },
+                    {
+                      "width": 465,
+                      "height": 641
+                    },
+                    {
+                      "width": 232,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2400/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Hope Township: Township 109 N, Range 44 W of the 5th PM.; Page 33: Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2400/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2400/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2400",
+                  "height": 5163,
+                  "width": 3687,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3687,
+                      "height": 5163
+                    },
+                    {
+                      "width": 1844,
+                      "height": 2582
+                    },
+                    {
+                      "width": 922,
+                      "height": 1291
+                    },
+                    {
+                      "width": 461,
+                      "height": 645
+                    },
+                    {
+                      "width": 230,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2401/info.json",
+          "@type": "sc:Canvas",
+          "label": "36 Blank Page; Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2401/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2401/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2401",
+                  "height": 5141,
+                  "width": 3703,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3703,
+                      "height": 5141
+                    },
+                    {
+                      "width": 1852,
+                      "height": 2571
+                    },
+                    {
+                      "width": 926,
+                      "height": 1285
+                    },
+                    {
+                      "width": 463,
+                      "height": 643
+                    },
+                    {
+                      "width": 231,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2402/info.json",
+          "@type": "sc:Canvas",
+          "label": "37 Location with Population of all Incorporated Towns in Minnesota; Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2402/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2402/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2402",
+                  "height": 5163,
+                  "width": 3687,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3687,
+                      "height": 5163
+                    },
+                    {
+                      "width": 1844,
+                      "height": 2582
+                    },
+                    {
+                      "width": 922,
+                      "height": 1291
+                    },
+                    {
+                      "width": 461,
+                      "height": 645
+                    },
+                    {
+                      "width": 230,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2403/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Minnesota - North; Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2403/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2403/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2403",
+                  "height": 5163,
+                  "width": 5970,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 5970,
+                      "height": 5163
+                    },
+                    {
+                      "width": 2985,
+                      "height": 2582
+                    },
+                    {
+                      "width": 1493,
+                      "height": 1291
+                    },
+                    {
+                      "width": 746,
+                      "height": 645
+                    },
+                    {
+                      "width": 373,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2404/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Minnesota - South; Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2404/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2404/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2404",
+                  "height": 5163,
+                  "width": 3687,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3687,
+                      "height": 5163
+                    },
+                    {
+                      "width": 1844,
+                      "height": 2582
+                    },
+                    {
+                      "width": 922,
+                      "height": 1291
+                    },
+                    {
+                      "width": 461,
+                      "height": 645
+                    },
+                    {
+                      "width": 230,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2405/info.json",
+          "@type": "sc:Canvas",
+          "label": "40 Location with Population of all Incorporated Towns in Minnesota; Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2405/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2405/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2405",
+                  "height": 5155,
+                  "width": 3707,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3707,
+                      "height": 5155
+                    },
+                    {
+                      "width": 1854,
+                      "height": 2578
+                    },
+                    {
+                      "width": 927,
+                      "height": 1289
+                    },
+                    {
+                      "width": 463,
+                      "height": 644
+                    },
+                    {
+                      "width": 232,
+                      "height": 322
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2406/info.json",
+          "@type": "sc:Canvas",
+          "label": "41 Index of all the Chief Towns and Cities of Over 2,000 in the United States; Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2406/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2406/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2406",
+                  "height": 5163,
+                  "width": 3687,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3687,
+                      "height": 5163
+                    },
+                    {
+                      "width": 1844,
+                      "height": 2582
+                    },
+                    {
+                      "width": 922,
+                      "height": 1291
+                    },
+                    {
+                      "width": 461,
+                      "height": 645
+                    },
+                    {
+                      "width": 230,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2407/info.json",
+          "@type": "sc:Canvas",
+          "label": "42 Map of the United States; Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2407/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2407/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2407",
+                  "height": 5039,
+                  "width": 7281,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 7281,
+                      "height": 5039
+                    },
+                    {
+                      "width": 3641,
+                      "height": 2520
+                    },
+                    {
+                      "width": 1820,
+                      "height": 1260
+                    },
+                    {
+                      "width": 910,
+                      "height": 630
+                    },
+                    {
+                      "width": 455,
+                      "height": 315
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2408/info.json",
+          "@type": "sc:Canvas",
+          "label": "43 Index of all the Chief Towns and Cities of Over 2,000 in the United States; Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2408/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2408/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2408",
+                  "height": 5033,
+                  "width": 3710,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3710,
+                      "height": 5033
+                    },
+                    {
+                      "width": 1855,
+                      "height": 2517
+                    },
+                    {
+                      "width": 928,
+                      "height": 1258
+                    },
+                    {
+                      "width": 464,
+                      "height": 629
+                    },
+                    {
+                      "width": 232,
+                      "height": 315
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2409/info.json",
+          "@type": "sc:Canvas",
+          "label": "44 Panama Canal; Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2409/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2409/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2409",
+                  "height": 5163,
+                  "width": 3687,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3687,
+                      "height": 5163
+                    },
+                    {
+                      "width": 1844,
+                      "height": 2582
+                    },
+                    {
+                      "width": 922,
+                      "height": 1291
+                    },
+                    {
+                      "width": 461,
+                      "height": 645
+                    },
+                    {
+                      "width": 230,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2410/info.json",
+          "@type": "sc:Canvas",
+          "label": "45 Map of the World; Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2410/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2410/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2410",
+                  "height": 5012,
+                  "width": 7246,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 7246,
+                      "height": 5012
+                    },
+                    {
+                      "width": 3623,
+                      "height": 2506
+                    },
+                    {
+                      "width": 1812,
+                      "height": 1253
+                    },
+                    {
+                      "width": 906,
+                      "height": 627
+                    },
+                    {
+                      "width": 453,
+                      "height": 313
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2411/info.json",
+          "@type": "sc:Canvas",
+          "label": "Principal Rulers of the World; Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2411/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2411/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2411",
+                  "height": 5163,
+                  "width": 3687,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3687,
+                      "height": 5163
+                    },
+                    {
+                      "width": 1844,
+                      "height": 2582
+                    },
+                    {
+                      "width": 922,
+                      "height": 1291
+                    },
+                    {
+                      "width": 461,
+                      "height": 645
+                    },
+                    {
+                      "width": 230,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
