@@ -1,0 +1,4382 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/BTAA-Geospatial-Data-Project/iiif-manifests/master/manifest_a95422e3-e24c-4726-b796-e278f6000374.json",
+  "@type": "sc:Manifest",
+  "label": "Parent Record; Atlas and Farm Directory with Complete Survey in Township Plats, Renville County, Minnesota, 1913",
+  "metadata": [
+    {
+      "label": "Description",
+      "value": "Atlas and farm directory with complete survey in township plats, Renville County, Minnesota : containing plats of all townships with owners' names ... / published by The Farmer, a journal of agriculture ; drawn and engraved by the Anderson Publishing Company, Chicago, Ill. St. Paul, Minn. : Webb Pub. Co., c1913."
+    },
+    {
+      "label": "Creator",
+      "value": "Webb Publishing Co."
+    },
+    {
+      "label": "Keywords",
+      "value": "Real property -- Minnesota -- Renville County -- Maps"
+    }
+  ],
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/904/info.json",
+          "@type": "sc:Canvas",
+          "label": "Front Cover; Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/904/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/904/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/904",
+                  "height": 5071,
+                  "width": 3825,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3825,
+                      "height": 5071
+                    },
+                    {
+                      "width": 1913,
+                      "height": 2536
+                    },
+                    {
+                      "width": 956,
+                      "height": 1268
+                    },
+                    {
+                      "width": 478,
+                      "height": 634
+                    },
+                    {
+                      "width": 239,
+                      "height": 317
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/905/info.json",
+          "@type": "sc:Canvas",
+          "label": "Front Pastedown; Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/905/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/905/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/905",
+                  "height": 4964,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4964
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2482
+                    },
+                    {
+                      "width": 880,
+                      "height": 1241
+                    },
+                    {
+                      "width": 440,
+                      "height": 621
+                    },
+                    {
+                      "width": 220,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/906/info.json",
+          "@type": "sc:Canvas",
+          "label": "Title Page.; Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/906/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/906/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/906",
+                  "height": 4893,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4893
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2447
+                    },
+                    {
+                      "width": 880,
+                      "height": 1223
+                    },
+                    {
+                      "width": 440,
+                      "height": 612
+                    },
+                    {
+                      "width": 220,
+                      "height": 306
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/907/info.json",
+          "@type": "sc:Canvas",
+          "label": "Topographical Map of Renville County, Minnesota.; Page 4 & 5: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/907/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/907/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/907",
+                  "height": 4866,
+                  "width": 6974,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6974,
+                      "height": 4866
+                    },
+                    {
+                      "width": 3487,
+                      "height": 2433
+                    },
+                    {
+                      "width": 1744,
+                      "height": 1217
+                    },
+                    {
+                      "width": 872,
+                      "height": 608
+                    },
+                    {
+                      "width": 436,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/908/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Boon Lake Township; Page 6: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/908/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/908/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/908",
+                  "height": 4942,
+                  "width": 3553,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3553,
+                      "height": 4942
+                    },
+                    {
+                      "width": 1777,
+                      "height": 2471
+                    },
+                    {
+                      "width": 888,
+                      "height": 1236
+                    },
+                    {
+                      "width": 444,
+                      "height": 618
+                    },
+                    {
+                      "width": 222,
+                      "height": 309
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/909/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Boon Lake Township: Township 116 N, Range 31 W of the 5th PM.; Page 7: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/909/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/909/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/909",
+                  "height": 4952,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4952
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2476
+                    },
+                    {
+                      "width": 880,
+                      "height": 1238
+                    },
+                    {
+                      "width": 440,
+                      "height": 619
+                    },
+                    {
+                      "width": 220,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/910/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Brookfield Township; Page 8: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/910/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/910/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/910",
+                  "height": 4953,
+                  "width": 3497,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3497,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1749,
+                      "height": 2477
+                    },
+                    {
+                      "width": 874,
+                      "height": 1238
+                    },
+                    {
+                      "width": 437,
+                      "height": 619
+                    },
+                    {
+                      "width": 219,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/911/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Brookfield Township: Township 116 N, Range 32 W of the 5th PM.; Page 9: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/911/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/911/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/911",
+                  "height": 4935,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4935
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2468
+                    },
+                    {
+                      "width": 880,
+                      "height": 1234
+                    },
+                    {
+                      "width": 440,
+                      "height": 617
+                    },
+                    {
+                      "width": 220,
+                      "height": 308
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/912/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Osceola Township; Page 10: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/912/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/912/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/912",
+                  "height": 4953,
+                  "width": 3553,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3553,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1777,
+                      "height": 2477
+                    },
+                    {
+                      "width": 888,
+                      "height": 1238
+                    },
+                    {
+                      "width": 444,
+                      "height": 619
+                    },
+                    {
+                      "width": 222,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/913/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Osceola Township: Township 116 N, Range 33 W of the 5th PM.; Page 11: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/913/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/913/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/913",
+                  "height": 4953,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2477
+                    },
+                    {
+                      "width": 880,
+                      "height": 1238
+                    },
+                    {
+                      "width": 440,
+                      "height": 619
+                    },
+                    {
+                      "width": 220,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/914/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Kingman Township; Page 12: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/914/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/914/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/914",
+                  "height": 4953,
+                  "width": 3553,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3553,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1777,
+                      "height": 2477
+                    },
+                    {
+                      "width": 888,
+                      "height": 1238
+                    },
+                    {
+                      "width": 444,
+                      "height": 619
+                    },
+                    {
+                      "width": 222,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/915/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Kingman Township: Township 116 N, Range 34 W of the 5th PM.; Page 13: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/915/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/915/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/915",
+                  "height": 4823,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4823
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2412
+                    },
+                    {
+                      "width": 880,
+                      "height": 1206
+                    },
+                    {
+                      "width": 440,
+                      "height": 603
+                    },
+                    {
+                      "width": 220,
+                      "height": 301
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/916/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Winfield Township; Page 14: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/916/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/916/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/916",
+                  "height": 4953,
+                  "width": 3553,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3553,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1777,
+                      "height": 2477
+                    },
+                    {
+                      "width": 888,
+                      "height": 1238
+                    },
+                    {
+                      "width": 444,
+                      "height": 619
+                    },
+                    {
+                      "width": 222,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/917/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Winfield Township: Township 116 N, Range 35 W of the 5th PM.; Page 15: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/917/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/917/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/917",
+                  "height": 4928,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4928
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2464
+                    },
+                    {
+                      "width": 880,
+                      "height": 1232
+                    },
+                    {
+                      "width": 440,
+                      "height": 616
+                    },
+                    {
+                      "width": 220,
+                      "height": 308
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/918/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Crooks Township; Page 16: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/918/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/918/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/918",
+                  "height": 4953,
+                  "width": 3553,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3553,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1777,
+                      "height": 2477
+                    },
+                    {
+                      "width": 888,
+                      "height": 1238
+                    },
+                    {
+                      "width": 444,
+                      "height": 619
+                    },
+                    {
+                      "width": 222,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/919/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Crooks Township: Township 116 N, Range 36 W of the 5th PM.; Page 17: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/919/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/919/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/919",
+                  "height": 4928,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4928
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2464
+                    },
+                    {
+                      "width": 880,
+                      "height": 1232
+                    },
+                    {
+                      "width": 440,
+                      "height": 616
+                    },
+                    {
+                      "width": 220,
+                      "height": 308
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/920/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Ericson Township; Page 18: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/920/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/920/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/920",
+                  "height": 4953,
+                  "width": 3553,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3553,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1777,
+                      "height": 2477
+                    },
+                    {
+                      "width": 888,
+                      "height": 1238
+                    },
+                    {
+                      "width": 444,
+                      "height": 619
+                    },
+                    {
+                      "width": 222,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/921/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Ericson Township: Township 116 N, Range 37 W of the 5th PM.; Page 19: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/921/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/921/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/921",
+                  "height": 4928,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4928
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2464
+                    },
+                    {
+                      "width": 880,
+                      "height": 1232
+                    },
+                    {
+                      "width": 440,
+                      "height": 616
+                    },
+                    {
+                      "width": 220,
+                      "height": 308
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/922/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Wang Township; Page 20: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/922/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/922/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/922",
+                  "height": 4953,
+                  "width": 3553,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3553,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1777,
+                      "height": 2477
+                    },
+                    {
+                      "width": 888,
+                      "height": 1238
+                    },
+                    {
+                      "width": 444,
+                      "height": 619
+                    },
+                    {
+                      "width": 222,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/923/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Wang Township: Township 116 N, Range 38 W of the 5th PM.; Page 21: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/923/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/923/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/923",
+                  "height": 4928,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4928
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2464
+                    },
+                    {
+                      "width": 880,
+                      "height": 1232
+                    },
+                    {
+                      "width": 440,
+                      "height": 616
+                    },
+                    {
+                      "width": 220,
+                      "height": 308
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/924/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Hawk Creek Township; Page 22: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/924/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/924/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/924",
+                  "height": 4953,
+                  "width": 3553,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3553,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1777,
+                      "height": 2477
+                    },
+                    {
+                      "width": 888,
+                      "height": 1238
+                    },
+                    {
+                      "width": 444,
+                      "height": 619
+                    },
+                    {
+                      "width": 222,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/925/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Hawk Creek Township: Township 114 & 115 N, Range 38 W of the 5th PM.; Page 23: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/925/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/925/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/925",
+                  "height": 4928,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4928
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2464
+                    },
+                    {
+                      "width": 880,
+                      "height": 1232
+                    },
+                    {
+                      "width": 440,
+                      "height": 616
+                    },
+                    {
+                      "width": 220,
+                      "height": 308
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/926/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Sacred Heart Township; Page 24: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/926/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/926/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/926",
+                  "height": 4953,
+                  "width": 3553,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3553,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1777,
+                      "height": 2477
+                    },
+                    {
+                      "width": 888,
+                      "height": 1238
+                    },
+                    {
+                      "width": 444,
+                      "height": 619
+                    },
+                    {
+                      "width": 222,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/927/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Sacred Heart Township: Township 114 & 115 N, Range 37 W of the 5th PM.; Page 25: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/927/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/927/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/927",
+                  "height": 4928,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4928
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2464
+                    },
+                    {
+                      "width": 880,
+                      "height": 1232
+                    },
+                    {
+                      "width": 440,
+                      "height": 616
+                    },
+                    {
+                      "width": 220,
+                      "height": 308
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/928/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Emmet Township; Page 26: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/928/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/928/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/928",
+                  "height": 4953,
+                  "width": 3553,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3553,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1777,
+                      "height": 2477
+                    },
+                    {
+                      "width": 888,
+                      "height": 1238
+                    },
+                    {
+                      "width": 444,
+                      "height": 619
+                    },
+                    {
+                      "width": 222,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/929/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Emmet Township: Township 115 N, Range 36 W of the 5th PM.; Page 27: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/929/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/929/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/929",
+                  "height": 4928,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4928
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2464
+                    },
+                    {
+                      "width": 880,
+                      "height": 1232
+                    },
+                    {
+                      "width": 440,
+                      "height": 616
+                    },
+                    {
+                      "width": 220,
+                      "height": 308
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/930/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Troy Township; Page 28: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/930/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/930/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/930",
+                  "height": 4953,
+                  "width": 3553,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3553,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1777,
+                      "height": 2477
+                    },
+                    {
+                      "width": 888,
+                      "height": 1238
+                    },
+                    {
+                      "width": 444,
+                      "height": 619
+                    },
+                    {
+                      "width": 222,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/931/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Troy Township: Township 115 N, Range 35 W of the 5th PM.; Page 29: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/931/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/931/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/931",
+                  "height": 4928,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4928
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2464
+                    },
+                    {
+                      "width": 880,
+                      "height": 1232
+                    },
+                    {
+                      "width": 440,
+                      "height": 616
+                    },
+                    {
+                      "width": 220,
+                      "height": 308
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/932/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Bird Island Township; Page 30: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/932/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/932/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/932",
+                  "height": 4953,
+                  "width": 3553,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3553,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1777,
+                      "height": 2477
+                    },
+                    {
+                      "width": 888,
+                      "height": 1238
+                    },
+                    {
+                      "width": 444,
+                      "height": 619
+                    },
+                    {
+                      "width": 222,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/933/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Bird Island Township: Township 115 N, Range 34 W of the 5th PM.; Page 31: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/933/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/933/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/933",
+                  "height": 4928,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4928
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2464
+                    },
+                    {
+                      "width": 880,
+                      "height": 1232
+                    },
+                    {
+                      "width": 440,
+                      "height": 616
+                    },
+                    {
+                      "width": 220,
+                      "height": 308
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/934/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Melville Township; Page 32: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/934/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/934/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/934",
+                  "height": 4953,
+                  "width": 3553,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3553,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1777,
+                      "height": 2477
+                    },
+                    {
+                      "width": 888,
+                      "height": 1238
+                    },
+                    {
+                      "width": 444,
+                      "height": 619
+                    },
+                    {
+                      "width": 222,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/935/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Melville Township: Township 115 N, Range 33 W of the 5th PM.; Page 33: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/935/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/935/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/935",
+                  "height": 4953,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2477
+                    },
+                    {
+                      "width": 880,
+                      "height": 1238
+                    },
+                    {
+                      "width": 440,
+                      "height": 619
+                    },
+                    {
+                      "width": 220,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/936/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Hector Township; Page 34: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/936/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/936/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/936",
+                  "height": 4953,
+                  "width": 3553,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3553,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1777,
+                      "height": 2477
+                    },
+                    {
+                      "width": 888,
+                      "height": 1238
+                    },
+                    {
+                      "width": 444,
+                      "height": 619
+                    },
+                    {
+                      "width": 222,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/937/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Hector Township: Township 115 N, Range 32 W of the 5th PM.; Page 35: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/937/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/937/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/937",
+                  "height": 4953,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2477
+                    },
+                    {
+                      "width": 880,
+                      "height": 1238
+                    },
+                    {
+                      "width": 440,
+                      "height": 619
+                    },
+                    {
+                      "width": 220,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/938/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Preston Lake Township; Page 36: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/938/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/938/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/938",
+                  "height": 4953,
+                  "width": 3553,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3553,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1777,
+                      "height": 2477
+                    },
+                    {
+                      "width": 888,
+                      "height": 1238
+                    },
+                    {
+                      "width": 444,
+                      "height": 619
+                    },
+                    {
+                      "width": 222,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/939/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Preston Lake Township: Township 115 N, Range 31 W of the 5th PM.; Page 37: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/939/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/939/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/939",
+                  "height": 4953,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2477
+                    },
+                    {
+                      "width": 880,
+                      "height": 1238
+                    },
+                    {
+                      "width": 440,
+                      "height": 619
+                    },
+                    {
+                      "width": 220,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/940/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Martinsburg Township; Page 38: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/940/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/940/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/940",
+                  "height": 4953,
+                  "width": 3553,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3553,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1777,
+                      "height": 2477
+                    },
+                    {
+                      "width": 888,
+                      "height": 1238
+                    },
+                    {
+                      "width": 444,
+                      "height": 619
+                    },
+                    {
+                      "width": 222,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/941/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Martinsburg Township: Township 114 N, Range 32 W of the 5th PM.; Page 39: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/941/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/941/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/941",
+                  "height": 4953,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2477
+                    },
+                    {
+                      "width": 880,
+                      "height": 1238
+                    },
+                    {
+                      "width": 440,
+                      "height": 619
+                    },
+                    {
+                      "width": 220,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/942/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Palmyra Township; Page 40: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/942/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/942/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/942",
+                  "height": 4953,
+                  "width": 3553,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3553,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1777,
+                      "height": 2477
+                    },
+                    {
+                      "width": 888,
+                      "height": 1238
+                    },
+                    {
+                      "width": 444,
+                      "height": 619
+                    },
+                    {
+                      "width": 222,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/943/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Palmyra Township: Township 114 N, Range 33 W of the 5th PM.; Page 41: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/943/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/943/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/943",
+                  "height": 4953,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2477
+                    },
+                    {
+                      "width": 880,
+                      "height": 1238
+                    },
+                    {
+                      "width": 440,
+                      "height": 619
+                    },
+                    {
+                      "width": 220,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/944/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Norfolk Township; Page 42: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/944/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/944/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/944",
+                  "height": 4953,
+                  "width": 3553,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3553,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1777,
+                      "height": 2477
+                    },
+                    {
+                      "width": 888,
+                      "height": 1238
+                    },
+                    {
+                      "width": 444,
+                      "height": 619
+                    },
+                    {
+                      "width": 222,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/945/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Norfolk Township: Township 114 N, Range 34 W of the 5th PM.; Page 43: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/945/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/945/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/945",
+                  "height": 4953,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2477
+                    },
+                    {
+                      "width": 880,
+                      "height": 1238
+                    },
+                    {
+                      "width": 440,
+                      "height": 619
+                    },
+                    {
+                      "width": 220,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/946/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Henryville Township; Page 44: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/946/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/946/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/946",
+                  "height": 4953,
+                  "width": 3553,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3553,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1777,
+                      "height": 2477
+                    },
+                    {
+                      "width": 888,
+                      "height": 1238
+                    },
+                    {
+                      "width": 444,
+                      "height": 619
+                    },
+                    {
+                      "width": 222,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/947/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Henryville Township: Township 114 N, Range 35 W of the 5th PM.; Page 45: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/947/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/947/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/947",
+                  "height": 4953,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2477
+                    },
+                    {
+                      "width": 880,
+                      "height": 1238
+                    },
+                    {
+                      "width": 440,
+                      "height": 619
+                    },
+                    {
+                      "width": 220,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/948/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Flora Township; Page 46: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/948/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/948/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/948",
+                  "height": 4953,
+                  "width": 3553,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3553,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1777,
+                      "height": 2477
+                    },
+                    {
+                      "width": 888,
+                      "height": 1238
+                    },
+                    {
+                      "width": 444,
+                      "height": 619
+                    },
+                    {
+                      "width": 222,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/949/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Flora Township: Township 113 & 114 N, Range 36 W of the 5th PM.; Page 47: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/949/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/949/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/949",
+                  "height": 4953,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2477
+                    },
+                    {
+                      "width": 880,
+                      "height": 1238
+                    },
+                    {
+                      "width": 440,
+                      "height": 619
+                    },
+                    {
+                      "width": 220,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/950/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Beaver Falls Township; Page 48: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/950/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/950/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/950",
+                  "height": 4953,
+                  "width": 3553,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3553,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1777,
+                      "height": 2477
+                    },
+                    {
+                      "width": 888,
+                      "height": 1238
+                    },
+                    {
+                      "width": 444,
+                      "height": 619
+                    },
+                    {
+                      "width": 222,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/951/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Beaver Falls Township: Township 113 N, Range 35 W of the 5th PM.; Page 49: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/951/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/951/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/951",
+                  "height": 4953,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2477
+                    },
+                    {
+                      "width": 880,
+                      "height": 1238
+                    },
+                    {
+                      "width": 440,
+                      "height": 619
+                    },
+                    {
+                      "width": 220,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/952/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Birch Cooley Township; Page 50: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/952/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/952/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/952",
+                  "height": 4953,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2477
+                    },
+                    {
+                      "width": 880,
+                      "height": 1238
+                    },
+                    {
+                      "width": 440,
+                      "height": 619
+                    },
+                    {
+                      "width": 220,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/953/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Birch Cooley Township: Township 112 & 113 N, Range 34 W of the 5th PM.; Page 51: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/953/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/953/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/953",
+                  "height": 4953,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2477
+                    },
+                    {
+                      "width": 880,
+                      "height": 1238
+                    },
+                    {
+                      "width": 440,
+                      "height": 619
+                    },
+                    {
+                      "width": 220,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/954/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Bandon Township; Page 52: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/954/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/954/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/954",
+                  "height": 4953,
+                  "width": 3553,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3553,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1777,
+                      "height": 2477
+                    },
+                    {
+                      "width": 888,
+                      "height": 1238
+                    },
+                    {
+                      "width": 444,
+                      "height": 619
+                    },
+                    {
+                      "width": 222,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/955/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Bandon Township: Township 113 N, Range 33 W of the 5th PM.; Page 53: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/955/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/955/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/955",
+                  "height": 4953,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2477
+                    },
+                    {
+                      "width": 880,
+                      "height": 1238
+                    },
+                    {
+                      "width": 440,
+                      "height": 619
+                    },
+                    {
+                      "width": 220,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/956/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Wellington Township; Page 54: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/956/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/956/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/956",
+                  "height": 4953,
+                  "width": 3553,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3553,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1777,
+                      "height": 2477
+                    },
+                    {
+                      "width": 888,
+                      "height": 1238
+                    },
+                    {
+                      "width": 444,
+                      "height": 619
+                    },
+                    {
+                      "width": 222,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/957/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Wellington Township: Township 113 N, Range 32 W of the 5th PM.; Page 55: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/957/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/957/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/957",
+                  "height": 4953,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2477
+                    },
+                    {
+                      "width": 880,
+                      "height": 1238
+                    },
+                    {
+                      "width": 440,
+                      "height": 619
+                    },
+                    {
+                      "width": 220,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/958/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Cairo Township; Page 56: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/958/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/958/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/958",
+                  "height": 4953,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2477
+                    },
+                    {
+                      "width": 880,
+                      "height": 1238
+                    },
+                    {
+                      "width": 440,
+                      "height": 619
+                    },
+                    {
+                      "width": 220,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/959/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Cairo Township: Township 112 N, Range 32 W of the 5th PM.; Page 57: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/959/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/959/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/959",
+                  "height": 4953,
+                  "width": 3519,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3519,
+                      "height": 4953
+                    },
+                    {
+                      "width": 1760,
+                      "height": 2477
+                    },
+                    {
+                      "width": 880,
+                      "height": 1238
+                    },
+                    {
+                      "width": 440,
+                      "height": 619
+                    },
+                    {
+                      "width": 220,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/960/info.json",
+          "@type": "sc:Canvas",
+          "label": "Farmers' Directory of Camp Township; Page 58: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/960/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/960/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/960",
+                  "height": 4887,
+                  "width": 3544,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3544,
+                      "height": 4887
+                    },
+                    {
+                      "width": 1772,
+                      "height": 2444
+                    },
+                    {
+                      "width": 886,
+                      "height": 1222
+                    },
+                    {
+                      "width": 443,
+                      "height": 611
+                    },
+                    {
+                      "width": 222,
+                      "height": 305
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/961/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Camp Township: Township 112 N, Range 33 W of the 5th PM.; Page 59: Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/961/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/961/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/961",
+                  "height": 4922,
+                  "width": 3535,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3535,
+                      "height": 4922
+                    },
+                    {
+                      "width": 1768,
+                      "height": 2461
+                    },
+                    {
+                      "width": 884,
+                      "height": 1231
+                    },
+                    {
+                      "width": 442,
+                      "height": 615
+                    },
+                    {
+                      "width": 221,
+                      "height": 308
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/962/info.json",
+          "@type": "sc:Canvas",
+          "label": "Blank Page; Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/962/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/962/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/962",
+                  "height": 4907,
+                  "width": 3587,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3587,
+                      "height": 4907
+                    },
+                    {
+                      "width": 1794,
+                      "height": 2454
+                    },
+                    {
+                      "width": 897,
+                      "height": 1227
+                    },
+                    {
+                      "width": 448,
+                      "height": 613
+                    },
+                    {
+                      "width": 224,
+                      "height": 307
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/963/info.json",
+          "@type": "sc:Canvas",
+          "label": "Location with Population of all Incorporated Towns in Minnesota; Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/963/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/963/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/963",
+                  "height": 4814,
+                  "width": 3483,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3483,
+                      "height": 4814
+                    },
+                    {
+                      "width": 1742,
+                      "height": 2407
+                    },
+                    {
+                      "width": 871,
+                      "height": 1204
+                    },
+                    {
+                      "width": 435,
+                      "height": 602
+                    },
+                    {
+                      "width": 218,
+                      "height": 301
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/964/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Minnesota; Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/964/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/964/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/964",
+                  "height": 6850,
+                  "width": 4848,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4848,
+                      "height": 6850
+                    },
+                    {
+                      "width": 2424,
+                      "height": 3425
+                    },
+                    {
+                      "width": 1212,
+                      "height": 1713
+                    },
+                    {
+                      "width": 606,
+                      "height": 856
+                    },
+                    {
+                      "width": 303,
+                      "height": 428
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/965/info.json",
+          "@type": "sc:Canvas",
+          "label": "Index of all the Chief Towns and Cities of over 2000 in the United States; Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/965/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/965/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/965",
+                  "height": 4832,
+                  "width": 3540,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3540,
+                      "height": 4832
+                    },
+                    {
+                      "width": 1770,
+                      "height": 2416
+                    },
+                    {
+                      "width": 885,
+                      "height": 1208
+                    },
+                    {
+                      "width": 443,
+                      "height": 604
+                    },
+                    {
+                      "width": 221,
+                      "height": 302
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/966/info.json",
+          "@type": "sc:Canvas",
+          "label": "Index of all the Chief Towns and Cities of over 2000 in the United States; Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/966/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/966/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/966",
+                  "height": 4852,
+                  "width": 3595,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3595,
+                      "height": 4852
+                    },
+                    {
+                      "width": 1798,
+                      "height": 2426
+                    },
+                    {
+                      "width": 899,
+                      "height": 1213
+                    },
+                    {
+                      "width": 449,
+                      "height": 607
+                    },
+                    {
+                      "width": 225,
+                      "height": 303
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/967/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of the United States; Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/967/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/967/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/967",
+                  "height": 4928,
+                  "width": 6994,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6994,
+                      "height": 4928
+                    },
+                    {
+                      "width": 3497,
+                      "height": 2464
+                    },
+                    {
+                      "width": 1749,
+                      "height": 1232
+                    },
+                    {
+                      "width": 874,
+                      "height": 616
+                    },
+                    {
+                      "width": 437,
+                      "height": 308
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/968/info.json",
+          "@type": "sc:Canvas",
+          "label": "Index of all the Chief Towns and Cities of over 2000 in the United States; Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/968/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/968/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/968",
+                  "height": 4957,
+                  "width": 3623,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3623,
+                      "height": 4957
+                    },
+                    {
+                      "width": 1812,
+                      "height": 2479
+                    },
+                    {
+                      "width": 906,
+                      "height": 1239
+                    },
+                    {
+                      "width": 453,
+                      "height": 620
+                    },
+                    {
+                      "width": 226,
+                      "height": 310
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/969/info.json",
+          "@type": "sc:Canvas",
+          "label": "Rear Pastedown; Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/969/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/969/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/969",
+                  "height": 5033,
+                  "width": 3691,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3691,
+                      "height": 5033
+                    },
+                    {
+                      "width": 1846,
+                      "height": 2517
+                    },
+                    {
+                      "width": 923,
+                      "height": 1258
+                    },
+                    {
+                      "width": 461,
+                      "height": 629
+                    },
+                    {
+                      "width": 231,
+                      "height": 315
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/970/info.json",
+          "@type": "sc:Canvas",
+          "label": "Rear Cover; Atlas and farm directory with complete survey in township plats, Renville County, Minnesota, 1913",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/970/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/970/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/970",
+                  "height": 5209,
+                  "width": 4020,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4020,
+                      "height": 5209
+                    },
+                    {
+                      "width": 2010,
+                      "height": 2605
+                    },
+                    {
+                      "width": 1005,
+                      "height": 1302
+                    },
+                    {
+                      "width": 503,
+                      "height": 651
+                    },
+                    {
+                      "width": 251,
+                      "height": 326
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

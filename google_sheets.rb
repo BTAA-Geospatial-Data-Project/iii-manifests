@@ -11,7 +11,7 @@ require 'open-uri'
 require 'iiif/presentation'
 
 # Open CSV File
-csv_file = CSV.read("lincoln.csv", headers:true, header_converters: :symbol)
+csv_file = CSV.read("renville.csv", headers:true, header_converters: :symbol)
 
 parent_record = {}
 
@@ -39,7 +39,7 @@ puts parent_record.inspect
 
 seed = {
   "@context" => "http://iiif.io/api/presentation/2/context.json",
-  "@id" => 'http://foo.ngrok.io/iiif_manifest.json',
+  "@id" => 'https://raw.githubusercontent.com/BTAA-Geospatial-Data-Project/iiif-manifests/master/manifest_a95422e3-e24c-4726-b796-e278f6000374.json',
   "@type" => "sc:Manifest",
   "label" => parent_record[:dc_title],
   "metadata" => parent_record[:metadata],
@@ -57,27 +57,27 @@ manifest.sequences <<
     "canvases" => []
   }
 
-CSV.foreach("lincoln.csv", {headers:true, header_converters: :symbol}).with_index do |row, i|
+CSV.foreach("renville.csv", {headers:true, header_converters: :symbol}).with_index do |row, i|
   next if i == 0
 
   # Canvas for each page
   canvas = IIIF::Presentation::Canvas.new()
 
   canvas["@type"] = "sc:Canvas"
-  canvas['@id'] = row[:gbl_web_map_service]
+  canvas['@id'] = row[:iiif_service]
   canvas["label"] = row[:dc_title]
   canvas["height"] = 1500
   canvas["width"] = 1500
 
-  service_url = row[:gbl_web_map_service]
+  service_url = row[:iiif_service]
   service_data = JSON.parse(open(service_url).read)
 
   image = {
     "@type": "oa:Annotation",
     "motivation": "sc:painting",
-    "on": row[:gbl_web_map_service],
+    "on": row[:iiif_service],
     "resource": {
-      "@id": row[:gbl_web_map_service],
+      "@id": row[:iiif_service],
       "@type": "dctypes:Image",
       "format": "image/jpeg",
       "height": 1500,
@@ -93,6 +93,6 @@ CSV.foreach("lincoln.csv", {headers:true, header_converters: :symbol}).with_inde
 end
 
 # Write manifest file
-File.open("iiif_manifest.json","w") do |f|
+File.open("manifest_a95422e3-e24c-4726-b796-e278f6000374.json","w") do |f|
   f.write(manifest.to_json(pretty: true))
 end
