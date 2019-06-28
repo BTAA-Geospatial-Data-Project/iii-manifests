@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "http://foo.ngrok.io/iiif_manifest.json",
+  "@id": "https://raw.githubusercontent.com/BTAA-Geospatial-Data-Project/iiif-manifests/master/manifest_414ade45-bef0-47ae-98a6-2b883c2642dd.json",
   "@type": "sc:Manifest",
   "label": "Parent Record; Atlas and farm directory with complete survey in township plats, Lincoln County, Minnesota, 1915",
   "metadata": [
