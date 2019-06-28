@@ -12,17 +12,18 @@ require 'iiif/presentation'
 
 ################################
 ################################################ Open CSV File
-csv_file = CSV.read("hennepin.csv", headers:true, header_converters: :symbol)
+csv_file = CSV.read("anoka.csv", headers:true, header_converters: :symbol)
 
 parent_record = {}
 
 csv_file.each do |row|
   parent_record[:dc_title] = row[:dc_title]
   parent_record[:metadata] = []
-  parent_record[:metadata] << {
-    label: "Description",
-    value: row[:dc_description]
-  }
+
+#   parent_record[:metadata] << {
+#     label: "Description",
+#     value: row[:dc_description]
+#   }
 
   parent_record[:metadata] << {
     label: "Creator",
@@ -40,7 +41,7 @@ puts parent_record.inspect
 
 seed = {
   "@context" => "http://iiif.io/api/presentation/2/context.json",
-  "@id" => 'https://raw.githubusercontent.com/BTAA-Geospatial-Data-Project/iiif-manifests/master/manifest_c6836071-9ee9-4297-b903-d6a384f1a4a7.json',
+  "@id" => 'https://raw.githubusercontent.com/BTAA-Geospatial-Data-Project/iiif-manifests/master/manifest_cddc54f7-b699-451c-bf37-1a41aa620817.json',
   "@type" => "sc:Manifest",
   "label" => parent_record[:dc_title],
   "metadata" => parent_record[:metadata],
@@ -59,7 +60,7 @@ manifest.sequences <<
   }
 
 ###################################################
-CSV.foreach("hennepin.csv", {headers:true, header_converters: :symbol}).with_index do |row, i|
+CSV.foreach("anoka.csv", {headers:true, header_converters: :symbol}).with_index do |row, i|
   next if i == 0
 
   # Canvas for each page
@@ -95,6 +96,6 @@ CSV.foreach("hennepin.csv", {headers:true, header_converters: :symbol}).with_ind
 end
 
 # Write manifest file
-File.open("manifest_c6836071-9ee9-4297-b903-d6a384f1a4a7.json","w") do |f|
+File.open("manifest_cddc54f7-b699-451c-bf37-1a41aa620817.json","w") do |f|
   f.write(manifest.to_json(pretty: true))
 end
