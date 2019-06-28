@@ -12,7 +12,7 @@ require 'iiif/presentation'
 
 ################################
 ################################################ Open CSV File
-csv_file = CSV.read("dakota.csv", headers:true, header_converters: :symbol)
+csv_file = CSV.read("hennepin.csv", headers:true, header_converters: :symbol)
 
 parent_record = {}
 
@@ -40,7 +40,7 @@ puts parent_record.inspect
 
 seed = {
   "@context" => "http://iiif.io/api/presentation/2/context.json",
-  "@id" => 'https://raw.githubusercontent.com/BTAA-Geospatial-Data-Project/iiif-manifests/master/manifest_9702bb22-4305-4cc2-a8f4-fc10e4ef05df.json',
+  "@id" => 'https://raw.githubusercontent.com/BTAA-Geospatial-Data-Project/iiif-manifests/master/manifest_c6836071-9ee9-4297-b903-d6a384f1a4a7.json',
   "@type" => "sc:Manifest",
   "label" => parent_record[:dc_title],
   "metadata" => parent_record[:metadata],
@@ -59,7 +59,7 @@ manifest.sequences <<
   }
 
 ###################################################
-CSV.foreach("dakota.csv", {headers:true, header_converters: :symbol}).with_index do |row, i|
+CSV.foreach("hennepin.csv", {headers:true, header_converters: :symbol}).with_index do |row, i|
   next if i == 0
 
   # Canvas for each page
@@ -95,6 +95,6 @@ CSV.foreach("dakota.csv", {headers:true, header_converters: :symbol}).with_index
 end
 
 # Write manifest file
-File.open("manifest_9702bb22-4305-4cc2-a8f4-fc10e4ef05df.json","w") do |f|
+File.open("manifest_c6836071-9ee9-4297-b903-d6a384f1a4a7.json","w") do |f|
   f.write(manifest.to_json(pretty: true))
 end
