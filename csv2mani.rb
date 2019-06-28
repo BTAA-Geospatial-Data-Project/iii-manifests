@@ -20,10 +20,10 @@ csv_file.each do |row|
   parent_record[:dc_title] = row[:dc_title]
   parent_record[:metadata] = []
 
-#   parent_record[:metadata] << {
-#     label: "Description",
-#     value: row[:dc_description]
-#   }
+  parent_record[:metadata] << {
+    label: "Description",
+    value: row[:dc_description]
+  }
 
   parent_record[:metadata] << {
     label: "Creator",
