@@ -11,7 +11,7 @@ require 'open-uri'
 require 'iiif/presentation'
 
 # Open CSV File
-csv_file = CSV.read("renville.csv", headers:true, header_converters: :symbol)
+csv_file = CSV.read("lincoln.csv", headers:true, header_converters: :symbol)
 
 parent_record = {}
 
@@ -39,7 +39,7 @@ puts parent_record.inspect
 
 seed = {
   "@context" => "http://iiif.io/api/presentation/2/context.json",
-  "@id" => 'https://raw.githubusercontent.com/BTAA-Geospatial-Data-Project/iiif-manifests/master/manifest_a95422e3-e24c-4726-b796-e278f6000374.json',
+  "@id" => 'https://raw.githubusercontent.com/BTAA-Geospatial-Data-Project/iiif-manifests/master/manifest_414ade45-bef0-47ae-98a6-2b883c2642dd.json',
   "@type" => "sc:Manifest",
   "label" => parent_record[:dc_title],
   "metadata" => parent_record[:metadata],
@@ -57,7 +57,7 @@ manifest.sequences <<
     "canvases" => []
   }
 
-CSV.foreach("renville.csv", {headers:true, header_converters: :symbol}).with_index do |row, i|
+CSV.foreach("lincoln.csv", {headers:true, header_converters: :symbol}).with_index do |row, i|
   next if i == 0
 
   # Canvas for each page
@@ -93,6 +93,6 @@ CSV.foreach("renville.csv", {headers:true, header_converters: :symbol}).with_ind
 end
 
 # Write manifest file
-File.open("manifest_a95422e3-e24c-4726-b796-e278f6000374.json","w") do |f|
+File.open("manifest_414ade45-bef0-47ae-98a6-2b883c2642dd.json","w") do |f|
   f.write(manifest.to_json(pretty: true))
 end
