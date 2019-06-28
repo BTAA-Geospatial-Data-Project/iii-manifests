@@ -1,0 +1,3663 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/BTAA-Geospatial-Data-Project/iiif-manifests/master/manifest_9702bb22-4305-4cc2-a8f4-fc10e4ef05df.json",
+  "@type": "sc:Manifest",
+  "label": "Parent Record; Atlas and farmers‚ directory of Dakota County, Minnesota, 1916.",
+  "metadata": [
+    {
+      "label": "Description",
+      "value": "Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, containing plats of all townships with owners' names ... / published by The Farmer [magazine] ; engraved by The Kenyon Company, Des Moines, Iowa. St. Paul: Webb Publishing Co., c1916."
+    },
+    {
+      "label": "Creator",
+      "value": "The Farmer [magazine] (Publisher)"
+    }
+  ],
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1723/info.json",
+          "@type": "sc:Canvas",
+          "label": "Front Cover; Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1723/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1723/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1723",
+                  "height": 5101,
+                  "width": 3971,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3971,
+                      "height": 5101
+                    },
+                    {
+                      "width": 1986,
+                      "height": 2551
+                    },
+                    {
+                      "width": 993,
+                      "height": 1275
+                    },
+                    {
+                      "width": 496,
+                      "height": 638
+                    },
+                    {
+                      "width": 248,
+                      "height": 319
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1724/info.json",
+          "@type": "sc:Canvas",
+          "label": "Front Pastedown; Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1724/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1724/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1724",
+                  "height": 5100,
+                  "width": 3970,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3970,
+                      "height": 5100
+                    },
+                    {
+                      "width": 1985,
+                      "height": 2550
+                    },
+                    {
+                      "width": 993,
+                      "height": 1275
+                    },
+                    {
+                      "width": 496,
+                      "height": 638
+                    },
+                    {
+                      "width": 248,
+                      "height": 319
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1725/info.json",
+          "@type": "sc:Canvas",
+          "label": "Blank; Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1725/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1725/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1725",
+                  "height": 5143,
+                  "width": 3913,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3913,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1957,
+                      "height": 2572
+                    },
+                    {
+                      "width": 978,
+                      "height": 1286
+                    },
+                    {
+                      "width": 489,
+                      "height": 643
+                    },
+                    {
+                      "width": 245,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1726/info.json",
+          "@type": "sc:Canvas",
+          "label": "Blank; Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1726/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1726/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1726",
+                  "height": 5143,
+                  "width": 3913,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3913,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1957,
+                      "height": 2572
+                    },
+                    {
+                      "width": 978,
+                      "height": 1286
+                    },
+                    {
+                      "width": 489,
+                      "height": 643
+                    },
+                    {
+                      "width": 245,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1727/info.json",
+          "@type": "sc:Canvas",
+          "label": "Title Page.; Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1727/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1727/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1727",
+                  "height": 5143,
+                  "width": 3914,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3914,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1957,
+                      "height": 2572
+                    },
+                    {
+                      "width": 979,
+                      "height": 1286
+                    },
+                    {
+                      "width": 489,
+                      "height": 643
+                    },
+                    {
+                      "width": 245,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1728/info.json",
+          "@type": "sc:Canvas",
+          "label": "Blank; Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1728/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1728/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1728",
+                  "height": 5143,
+                  "width": 3741,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3741,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1871,
+                      "height": 2572
+                    },
+                    {
+                      "width": 935,
+                      "height": 1286
+                    },
+                    {
+                      "width": 468,
+                      "height": 643
+                    },
+                    {
+                      "width": 234,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1729/info.json",
+          "@type": "sc:Canvas",
+          "label": "Outline map of Dakota County.; Page 3: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1729/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1729/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1729",
+                  "height": 5143,
+                  "width": 3914,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3914,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1957,
+                      "height": 2572
+                    },
+                    {
+                      "width": 979,
+                      "height": 1286
+                    },
+                    {
+                      "width": 489,
+                      "height": 643
+                    },
+                    {
+                      "width": 245,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1730/info.json",
+          "@type": "sc:Canvas",
+          "label": "Directory of Eagan & Mendota Townships.; Page 4: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1730/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1730/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1730",
+                  "height": 5143,
+                  "width": 3913,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3913,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1957,
+                      "height": 2572
+                    },
+                    {
+                      "width": 978,
+                      "height": 1286
+                    },
+                    {
+                      "width": 489,
+                      "height": 643
+                    },
+                    {
+                      "width": 245,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1731/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Eagan & Mendota Townships: Township 27 & 28 N; Range 23 W of the 4th PM.; Page 5: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1731/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1731/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1731",
+                  "height": 5143,
+                  "width": 3914,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3914,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1957,
+                      "height": 2572
+                    },
+                    {
+                      "width": 979,
+                      "height": 1286
+                    },
+                    {
+                      "width": 489,
+                      "height": 643
+                    },
+                    {
+                      "width": 245,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1732/info.json",
+          "@type": "sc:Canvas",
+          "label": "Directory of Inver Grove Township.; Page 6: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1732/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1732/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1732",
+                  "height": 5143,
+                  "width": 3913,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3913,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1957,
+                      "height": 2572
+                    },
+                    {
+                      "width": 978,
+                      "height": 1286
+                    },
+                    {
+                      "width": 489,
+                      "height": 643
+                    },
+                    {
+                      "width": 245,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1733/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Inver Grove Township: Township 27 & 28 N; Range 22 W of the 4th PM.; Page 7: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1733/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1733/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1733",
+                  "height": 5143,
+                  "width": 3913,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3913,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1957,
+                      "height": 2572
+                    },
+                    {
+                      "width": 978,
+                      "height": 1286
+                    },
+                    {
+                      "width": 489,
+                      "height": 643
+                    },
+                    {
+                      "width": 245,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1734/info.json",
+          "@type": "sc:Canvas",
+          "label": "Directory of Burnsville & Inver Grove Townships.; Page 8: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1734/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1734/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1734",
+                  "height": 5143,
+                  "width": 3770,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3770,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1885,
+                      "height": 2572
+                    },
+                    {
+                      "width": 943,
+                      "height": 1286
+                    },
+                    {
+                      "width": 471,
+                      "height": 643
+                    },
+                    {
+                      "width": 236,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1735/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Burnsville Township: Township 27 N; Range 24 W of the 4th PM / Township 115 N; Range 20 & 21 W of the 5th PM.; Page 9: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1735/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1735/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1735",
+                  "height": 5143,
+                  "width": 3827,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3827,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1914,
+                      "height": 2572
+                    },
+                    {
+                      "width": 957,
+                      "height": 1286
+                    },
+                    {
+                      "width": 478,
+                      "height": 643
+                    },
+                    {
+                      "width": 239,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1736/info.json",
+          "@type": "sc:Canvas",
+          "label": "Directory of Lebanon & Inver Grove Townships.; Page 10: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1736/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1736/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1736",
+                  "height": 5143,
+                  "width": 3827,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3827,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1914,
+                      "height": 2572
+                    },
+                    {
+                      "width": 957,
+                      "height": 1286
+                    },
+                    {
+                      "width": 478,
+                      "height": 643
+                    },
+                    {
+                      "width": 239,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1737/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Lebanon Township: Township 115 N; Range 20 W of the 5th PM.; Page 11: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1737/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1737/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1737",
+                  "height": 5143,
+                  "width": 3827,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3827,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1914,
+                      "height": 2572
+                    },
+                    {
+                      "width": 957,
+                      "height": 1286
+                    },
+                    {
+                      "width": 478,
+                      "height": 643
+                    },
+                    {
+                      "width": 239,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1738/info.json",
+          "@type": "sc:Canvas",
+          "label": "Directory of Ninninger Township.; Page 12: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1738/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1738/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1738",
+                  "height": 5143,
+                  "width": 3741,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3741,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1871,
+                      "height": 2572
+                    },
+                    {
+                      "width": 935,
+                      "height": 1286
+                    },
+                    {
+                      "width": 468,
+                      "height": 643
+                    },
+                    {
+                      "width": 234,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1739/info.json",
+          "@type": "sc:Canvas",
+          "label": "Directory of Rosemount Township.; Page 13: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1739/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1739/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1739",
+                  "height": 5143,
+                  "width": 3741,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3741,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1871,
+                      "height": 2572
+                    },
+                    {
+                      "width": 935,
+                      "height": 1286
+                    },
+                    {
+                      "width": 468,
+                      "height": 643
+                    },
+                    {
+                      "width": 234,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1740/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Rosemount Township: Township 115 N; Range 18 & 19 W of the 5th PM.; Page 14: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1740/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1740/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1740",
+                  "height": 5143,
+                  "width": 3741,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3741,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1871,
+                      "height": 2572
+                    },
+                    {
+                      "width": 935,
+                      "height": 1286
+                    },
+                    {
+                      "width": 468,
+                      "height": 643
+                    },
+                    {
+                      "width": 234,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1741/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Ninninger & part of Rosemount Township: Township 115 N; Range 17 & 18 W of the 5th PM.; Page 15: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1741/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1741/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1741",
+                  "height": 5143,
+                  "width": 3742,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3742,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1871,
+                      "height": 2572
+                    },
+                    {
+                      "width": 936,
+                      "height": 1286
+                    },
+                    {
+                      "width": 468,
+                      "height": 643
+                    },
+                    {
+                      "width": 234,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1742/info.json",
+          "@type": "sc:Canvas",
+          "label": "Directory of Lakeville Township.; Page 16: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1742/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1742/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1742",
+                  "height": 5143,
+                  "width": 3827,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3827,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1914,
+                      "height": 2572
+                    },
+                    {
+                      "width": 957,
+                      "height": 1286
+                    },
+                    {
+                      "width": 478,
+                      "height": 643
+                    },
+                    {
+                      "width": 239,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1743/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Lakeville Township: Township 114 N; Range 20 & 21 W of the 5th PM.; Page 17: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1743/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1743/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1743",
+                  "height": 5143,
+                  "width": 3827,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3827,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1914,
+                      "height": 2572
+                    },
+                    {
+                      "width": 957,
+                      "height": 1286
+                    },
+                    {
+                      "width": 478,
+                      "height": 643
+                    },
+                    {
+                      "width": 239,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1744/info.json",
+          "@type": "sc:Canvas",
+          "label": "Directory of Empire Township.; Page 18: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1744/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1744/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1744",
+                  "height": 5143,
+                  "width": 3828,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3828,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1914,
+                      "height": 2572
+                    },
+                    {
+                      "width": 957,
+                      "height": 1286
+                    },
+                    {
+                      "width": 479,
+                      "height": 643
+                    },
+                    {
+                      "width": 239,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1745/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Empire Township: Township 114 N; Range 19 W of the 5th PM.; Page 19: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1745/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1745/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1745",
+                  "height": 5143,
+                  "width": 3828,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3828,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1914,
+                      "height": 2572
+                    },
+                    {
+                      "width": 957,
+                      "height": 1286
+                    },
+                    {
+                      "width": 479,
+                      "height": 643
+                    },
+                    {
+                      "width": 239,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1746/info.json",
+          "@type": "sc:Canvas",
+          "label": "Directory of Vermillion Township.; Page 20: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1746/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1746/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1746",
+                  "height": 5143,
+                  "width": 3827,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3827,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1914,
+                      "height": 2572
+                    },
+                    {
+                      "width": 957,
+                      "height": 1286
+                    },
+                    {
+                      "width": 478,
+                      "height": 643
+                    },
+                    {
+                      "width": 239,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1747/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Vermillion Township: Township 114 N; Range 18 W of the 5th PM.; Page 21: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1747/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1747/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1747",
+                  "height": 5143,
+                  "width": 3827,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3827,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1914,
+                      "height": 2572
+                    },
+                    {
+                      "width": 957,
+                      "height": 1286
+                    },
+                    {
+                      "width": 478,
+                      "height": 643
+                    },
+                    {
+                      "width": 239,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1748/info.json",
+          "@type": "sc:Canvas",
+          "label": "Directory of Marshan Township.; Page 22: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1748/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1748/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1748",
+                  "height": 5143,
+                  "width": 3827,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3827,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1914,
+                      "height": 2572
+                    },
+                    {
+                      "width": 957,
+                      "height": 1286
+                    },
+                    {
+                      "width": 478,
+                      "height": 643
+                    },
+                    {
+                      "width": 239,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1749/info.json",
+          "@type": "sc:Canvas",
+          "label": "Directory of Ravenna & Hastings Townships.; Page 23: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1749/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1749/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1749",
+                  "height": 5143,
+                  "width": 3827,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3827,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1914,
+                      "height": 2572
+                    },
+                    {
+                      "width": 957,
+                      "height": 1286
+                    },
+                    {
+                      "width": 478,
+                      "height": 643
+                    },
+                    {
+                      "width": 239,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1750/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Hastings, and part of Ravenna & Marshan Townships: Township 114 & 115 N; Range 16 & 17 W of the 5th PM.; Page 24: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1750/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1750/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1750",
+                  "height": 3827,
+                  "width": 5143,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 5143,
+                      "height": 3827
+                    },
+                    {
+                      "width": 2572,
+                      "height": 1914
+                    },
+                    {
+                      "width": 1286,
+                      "height": 957
+                    },
+                    {
+                      "width": 643,
+                      "height": 478
+                    },
+                    {
+                      "width": 321,
+                      "height": 239
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1751/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of part of Ravenna & Marshan Townships: Township 114 N; Range 16 & 17 W of the 5th PM.; Page 25: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1751/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1751/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1751",
+                  "height": 5143,
+                  "width": 3827,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3827,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1914,
+                      "height": 2572
+                    },
+                    {
+                      "width": 957,
+                      "height": 1286
+                    },
+                    {
+                      "width": 478,
+                      "height": 643
+                    },
+                    {
+                      "width": 239,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1752/info.json",
+          "@type": "sc:Canvas",
+          "label": "Directory of Eureka Township.; Page 26: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1752/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1752/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1752",
+                  "height": 5143,
+                  "width": 3827,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3827,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1914,
+                      "height": 2572
+                    },
+                    {
+                      "width": 957,
+                      "height": 1286
+                    },
+                    {
+                      "width": 478,
+                      "height": 643
+                    },
+                    {
+                      "width": 239,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1753/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Eureka Township: Township 113 N; Range 20 W of the 5th PM.; Page 27: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1753/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1753/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1753",
+                  "height": 5143,
+                  "width": 3828,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3828,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1914,
+                      "height": 2572
+                    },
+                    {
+                      "width": 957,
+                      "height": 1286
+                    },
+                    {
+                      "width": 479,
+                      "height": 643
+                    },
+                    {
+                      "width": 239,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1754/info.json",
+          "@type": "sc:Canvas",
+          "label": "Directory of Castle Rock Township.; Page 28: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1754/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1754/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1754",
+                  "height": 5143,
+                  "width": 3827,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3827,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1914,
+                      "height": 2572
+                    },
+                    {
+                      "width": 957,
+                      "height": 1286
+                    },
+                    {
+                      "width": 478,
+                      "height": 643
+                    },
+                    {
+                      "width": 239,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1755/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Castle Rock Township: Township 113 N; Range 19 W of the 5th PM.; Page 29: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1755/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1755/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1755",
+                  "height": 5143,
+                  "width": 3827,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3827,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1914,
+                      "height": 2572
+                    },
+                    {
+                      "width": 957,
+                      "height": 1286
+                    },
+                    {
+                      "width": 478,
+                      "height": 643
+                    },
+                    {
+                      "width": 239,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1756/info.json",
+          "@type": "sc:Canvas",
+          "label": "Directory of Hampton Township.; Page 30: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1756/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1756/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1756",
+                  "height": 5143,
+                  "width": 3827,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3827,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1914,
+                      "height": 2572
+                    },
+                    {
+                      "width": 957,
+                      "height": 1286
+                    },
+                    {
+                      "width": 478,
+                      "height": 643
+                    },
+                    {
+                      "width": 239,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1757/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Hampton & Randolph Townships: Township 112 & 113 N; Range 18 W of the 5th PM.; Page 31: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1757/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1757/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1757",
+                  "height": 5143,
+                  "width": 3827,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3827,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1914,
+                      "height": 2572
+                    },
+                    {
+                      "width": 957,
+                      "height": 1286
+                    },
+                    {
+                      "width": 478,
+                      "height": 643
+                    },
+                    {
+                      "width": 239,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1758/info.json",
+          "@type": "sc:Canvas",
+          "label": "Directory of Douglass Township.; Page 32: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1758/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1758/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1758",
+                  "height": 5143,
+                  "width": 3927,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3927,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1964,
+                      "height": 2572
+                    },
+                    {
+                      "width": 982,
+                      "height": 1286
+                    },
+                    {
+                      "width": 491,
+                      "height": 643
+                    },
+                    {
+                      "width": 245,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1759/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Douglass Township: Township 113 N; Range 17 W of the 5th PM.; Page 33: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1759/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1759/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1759",
+                  "height": 5143,
+                  "width": 3727,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3727,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1864,
+                      "height": 2572
+                    },
+                    {
+                      "width": 932,
+                      "height": 1286
+                    },
+                    {
+                      "width": 466,
+                      "height": 643
+                    },
+                    {
+                      "width": 233,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1760/info.json",
+          "@type": "sc:Canvas",
+          "label": "Directory of Greenvale Township.; Page 34: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1760/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1760/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1760",
+                  "height": 5143,
+                  "width": 4043,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4043,
+                      "height": 5143
+                    },
+                    {
+                      "width": 2022,
+                      "height": 2572
+                    },
+                    {
+                      "width": 1011,
+                      "height": 1286
+                    },
+                    {
+                      "width": 505,
+                      "height": 643
+                    },
+                    {
+                      "width": 253,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1761/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Greenvale Township: Township 112 N; Range 20 W of the 5th PM.; Page 35: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1761/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1761/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1761",
+                  "height": 5143,
+                  "width": 4042,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4042,
+                      "height": 5143
+                    },
+                    {
+                      "width": 2021,
+                      "height": 2572
+                    },
+                    {
+                      "width": 1011,
+                      "height": 1286
+                    },
+                    {
+                      "width": 505,
+                      "height": 643
+                    },
+                    {
+                      "width": 253,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1762/info.json",
+          "@type": "sc:Canvas",
+          "label": "Directory of Sciota & Waterford Township.; Page 36: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1762/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1762/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1762",
+                  "height": 5143,
+                  "width": 3913,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3913,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1957,
+                      "height": 2572
+                    },
+                    {
+                      "width": 978,
+                      "height": 1286
+                    },
+                    {
+                      "width": 489,
+                      "height": 643
+                    },
+                    {
+                      "width": 245,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1763/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Sciota & Waterford Township: Township 112 N; Range 19 W of the 5th PM.; Page 37: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1763/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1763/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1763",
+                  "height": 5142,
+                  "width": 3913,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3913,
+                      "height": 5142
+                    },
+                    {
+                      "width": 1957,
+                      "height": 2571
+                    },
+                    {
+                      "width": 978,
+                      "height": 1286
+                    },
+                    {
+                      "width": 489,
+                      "height": 643
+                    },
+                    {
+                      "width": 245,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1764/info.json",
+          "@type": "sc:Canvas",
+          "label": "Directory of Hampton Township.; Page 38: Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1764/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1764/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1764",
+                  "height": 5143,
+                  "width": 3913,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3913,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1957,
+                      "height": 2572
+                    },
+                    {
+                      "width": 978,
+                      "height": 1286
+                    },
+                    {
+                      "width": 489,
+                      "height": 643
+                    },
+                    {
+                      "width": 245,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1765/info.json",
+          "@type": "sc:Canvas",
+          "label": "Minnesota Population Index.; Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1765/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1765/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1765",
+                  "height": 5142,
+                  "width": 3914,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3914,
+                      "height": 5142
+                    },
+                    {
+                      "width": 1957,
+                      "height": 2571
+                    },
+                    {
+                      "width": 979,
+                      "height": 1286
+                    },
+                    {
+                      "width": 489,
+                      "height": 643
+                    },
+                    {
+                      "width": 245,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1766/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Minnesota.; Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1766/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1766/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1766",
+                  "height": 3913,
+                  "width": 5142,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 5142,
+                      "height": 3913
+                    },
+                    {
+                      "width": 2571,
+                      "height": 1957
+                    },
+                    {
+                      "width": 1286,
+                      "height": 978
+                    },
+                    {
+                      "width": 643,
+                      "height": 489
+                    },
+                    {
+                      "width": 321,
+                      "height": 245
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1767/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Minnesota.; Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1767/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1767/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1767",
+                  "height": 3913,
+                  "width": 5143,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 5143,
+                      "height": 3913
+                    },
+                    {
+                      "width": 2572,
+                      "height": 1957
+                    },
+                    {
+                      "width": 1286,
+                      "height": 978
+                    },
+                    {
+                      "width": 643,
+                      "height": 489
+                    },
+                    {
+                      "width": 321,
+                      "height": 245
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1768/info.json",
+          "@type": "sc:Canvas",
+          "label": "Minnesota Population Index.; Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1768/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1768/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1768",
+                  "height": 5142,
+                  "width": 3913,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3913,
+                      "height": 5142
+                    },
+                    {
+                      "width": 1957,
+                      "height": 2571
+                    },
+                    {
+                      "width": 978,
+                      "height": 1286
+                    },
+                    {
+                      "width": 489,
+                      "height": 643
+                    },
+                    {
+                      "width": 245,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1769/info.json",
+          "@type": "sc:Canvas",
+          "label": "United States Population Index.; Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1769/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1769/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1769",
+                  "height": 5143,
+                  "width": 3842,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3842,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1921,
+                      "height": 2572
+                    },
+                    {
+                      "width": 961,
+                      "height": 1286
+                    },
+                    {
+                      "width": 480,
+                      "height": 643
+                    },
+                    {
+                      "width": 240,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1770/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of the United States.; Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1770/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1770/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1770",
+                  "height": 5142,
+                  "width": 3942,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3942,
+                      "height": 5142
+                    },
+                    {
+                      "width": 1971,
+                      "height": 2571
+                    },
+                    {
+                      "width": 986,
+                      "height": 1286
+                    },
+                    {
+                      "width": 493,
+                      "height": 643
+                    },
+                    {
+                      "width": 246,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1771/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of the United States.; Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1771/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1771/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1771",
+                  "height": 5143,
+                  "width": 3856,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3856,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1928,
+                      "height": 2572
+                    },
+                    {
+                      "width": 964,
+                      "height": 1286
+                    },
+                    {
+                      "width": 482,
+                      "height": 643
+                    },
+                    {
+                      "width": 241,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1772/info.json",
+          "@type": "sc:Canvas",
+          "label": "United States Population Index.; Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1772/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1772/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1772",
+                  "height": 5143,
+                  "width": 3985,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3985,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1993,
+                      "height": 2572
+                    },
+                    {
+                      "width": 996,
+                      "height": 1286
+                    },
+                    {
+                      "width": 498,
+                      "height": 643
+                    },
+                    {
+                      "width": 249,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1773/info.json",
+          "@type": "sc:Canvas",
+          "label": "Panama Canal.; Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1773/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1773/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1773",
+                  "height": 5143,
+                  "width": 3985,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3985,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1993,
+                      "height": 2572
+                    },
+                    {
+                      "width": 996,
+                      "height": 1286
+                    },
+                    {
+                      "width": 498,
+                      "height": 643
+                    },
+                    {
+                      "width": 249,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1774/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of the World.; Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1774/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1774/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1774",
+                  "height": 5143,
+                  "width": 3985,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3985,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1993,
+                      "height": 2572
+                    },
+                    {
+                      "width": 996,
+                      "height": 1286
+                    },
+                    {
+                      "width": 498,
+                      "height": 643
+                    },
+                    {
+                      "width": 249,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1775/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of the World.; Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1775/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1775/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1775",
+                  "height": 5143,
+                  "width": 3985,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3985,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1993,
+                      "height": 2572
+                    },
+                    {
+                      "width": 996,
+                      "height": 1286
+                    },
+                    {
+                      "width": 498,
+                      "height": 643
+                    },
+                    {
+                      "width": 249,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1776/info.json",
+          "@type": "sc:Canvas",
+          "label": "Principal Rulers of the World.; Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1776/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1776/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1776",
+                  "height": 5143,
+                  "width": 3985,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3985,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1993,
+                      "height": 2572
+                    },
+                    {
+                      "width": 996,
+                      "height": 1286
+                    },
+                    {
+                      "width": 498,
+                      "height": 643
+                    },
+                    {
+                      "width": 249,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1777/info.json",
+          "@type": "sc:Canvas",
+          "label": "Blank; Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1777/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1777/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1777",
+                  "height": 5143,
+                  "width": 3827,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3827,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1914,
+                      "height": 2572
+                    },
+                    {
+                      "width": 957,
+                      "height": 1286
+                    },
+                    {
+                      "width": 478,
+                      "height": 643
+                    },
+                    {
+                      "width": 239,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1778/info.json",
+          "@type": "sc:Canvas",
+          "label": "Rear Cover; Atlas and farm directory with complete survey in township plats, Dakota County, Minnesota, 1916",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1778/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1778/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1778",
+                  "height": 5143,
+                  "width": 3971,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3971,
+                      "height": 5143
+                    },
+                    {
+                      "width": 1986,
+                      "height": 2572
+                    },
+                    {
+                      "width": 993,
+                      "height": 1286
+                    },
+                    {
+                      "width": 496,
+                      "height": 643
+                    },
+                    {
+                      "width": 248,
+                      "height": 321
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

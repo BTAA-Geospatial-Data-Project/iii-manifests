@@ -1,0 +1,3598 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/BTAA-Geospatial-Data-Project/iiif-manifests/master/manifest_a5223e46-8f35-4c26-ae45-0bf609e8fe41.json",
+  "@type": "sc:Manifest",
+  "label": "Parent Record; Atlas of Clearwater County, Minnesota, 1912",
+  "metadata": [
+    {
+      "label": "Description",
+      "value": null
+    },
+    {
+      "label": "Creator",
+      "value": "Ringborg, Axel"
+    }
+  ],
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/603/info.json",
+          "@type": "sc:Canvas",
+          "label": "Front Cover; Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/603/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/603/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/603",
+                  "height": 5171,
+                  "width": 4160,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4160,
+                      "height": 5171
+                    },
+                    {
+                      "width": 2080,
+                      "height": 2586
+                    },
+                    {
+                      "width": 1040,
+                      "height": 1293
+                    },
+                    {
+                      "width": 520,
+                      "height": 646
+                    },
+                    {
+                      "width": 260,
+                      "height": 323
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/604/info.json",
+          "@type": "sc:Canvas",
+          "label": "Advertisements.; Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/604/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/604/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/604",
+                  "height": 4995,
+                  "width": 4128,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4128,
+                      "height": 4995
+                    },
+                    {
+                      "width": 2064,
+                      "height": 2498
+                    },
+                    {
+                      "width": 1032,
+                      "height": 1249
+                    },
+                    {
+                      "width": 516,
+                      "height": 624
+                    },
+                    {
+                      "width": 258,
+                      "height": 312
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/605/info.json",
+          "@type": "sc:Canvas",
+          "label": "Title Page; Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/605/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/605/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/605",
+                  "height": 4995,
+                  "width": 3792,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3792,
+                      "height": 4995
+                    },
+                    {
+                      "width": 1896,
+                      "height": 2498
+                    },
+                    {
+                      "width": 948,
+                      "height": 1249
+                    },
+                    {
+                      "width": 474,
+                      "height": 624
+                    },
+                    {
+                      "width": 237,
+                      "height": 312
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/606/info.json",
+          "@type": "sc:Canvas",
+          "label": "Advertisements.; Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/606/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/606/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/606",
+                  "height": 4947,
+                  "width": 3792,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3792,
+                      "height": 4947
+                    },
+                    {
+                      "width": 1896,
+                      "height": 2474
+                    },
+                    {
+                      "width": 948,
+                      "height": 1237
+                    },
+                    {
+                      "width": 474,
+                      "height": 618
+                    },
+                    {
+                      "width": 237,
+                      "height": 309
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/607/info.json",
+          "@type": "sc:Canvas",
+          "label": "Northern Portion of Clearwater County; Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/607/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/607/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/607",
+                  "height": 4867,
+                  "width": 3760,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3760,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1880,
+                      "height": 2434
+                    },
+                    {
+                      "width": 940,
+                      "height": 1217
+                    },
+                    {
+                      "width": 470,
+                      "height": 608
+                    },
+                    {
+                      "width": 235,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/608/info.json",
+          "@type": "sc:Canvas",
+          "label": "Advertisements.; Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/608/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/608/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/608",
+                  "height": 4867,
+                  "width": 3760,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3760,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1880,
+                      "height": 2434
+                    },
+                    {
+                      "width": 940,
+                      "height": 1217
+                    },
+                    {
+                      "width": 470,
+                      "height": 608
+                    },
+                    {
+                      "width": 235,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/609/info.json",
+          "@type": "sc:Canvas",
+          "label": "Southern Portion of Clearwater County; Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/609/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/609/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/609",
+                  "height": 4867,
+                  "width": 3760,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3760,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1880,
+                      "height": 2434
+                    },
+                    {
+                      "width": 940,
+                      "height": 1217
+                    },
+                    {
+                      "width": 470,
+                      "height": 608
+                    },
+                    {
+                      "width": 235,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/610/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Part of Diminished Red Lake Indian Reservation: Township 152 N; Range 38 W of the 5th PM.; Page 7: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/610/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/610/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/610",
+                  "height": 4867,
+                  "width": 3760,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3760,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1880,
+                      "height": 2434
+                    },
+                    {
+                      "width": 940,
+                      "height": 1217
+                    },
+                    {
+                      "width": 470,
+                      "height": 608
+                    },
+                    {
+                      "width": 235,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/611/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Part of Diminished Red Lake Indian Reservation: Township 152 N; Range 37 W of the 5th PM.; Page 9: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/611/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/611/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/611",
+                  "height": 4867,
+                  "width": 3760,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3760,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1880,
+                      "height": 2434
+                    },
+                    {
+                      "width": 940,
+                      "height": 1217
+                    },
+                    {
+                      "width": 470,
+                      "height": 608
+                    },
+                    {
+                      "width": 235,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/612/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Part of Diminished Red Lake Indian Reservation: Township 152 N; Range 36 W of the 5th PM.; Page 11: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/612/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/612/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/612",
+                  "height": 4867,
+                  "width": 3760,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3760,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1880,
+                      "height": 2434
+                    },
+                    {
+                      "width": 940,
+                      "height": 1217
+                    },
+                    {
+                      "width": 470,
+                      "height": 608
+                    },
+                    {
+                      "width": 235,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/613/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Hangaard Township: Township 151 N; Range 38 W of the 5th PM.; Page 13: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/613/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/613/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/613",
+                  "height": 4867,
+                  "width": 3760,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3760,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1880,
+                      "height": 2434
+                    },
+                    {
+                      "width": 940,
+                      "height": 1217
+                    },
+                    {
+                      "width": 470,
+                      "height": 608
+                    },
+                    {
+                      "width": 235,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/614/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Part of Diminished Red Lake Indian Reservation: Township 151 N; Range 37 W of the 5th PM.; Page 15: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/614/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/614/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/614",
+                  "height": 4867,
+                  "width": 3760,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3760,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1880,
+                      "height": 2434
+                    },
+                    {
+                      "width": 940,
+                      "height": 1217
+                    },
+                    {
+                      "width": 470,
+                      "height": 608
+                    },
+                    {
+                      "width": 235,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/615/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Part of Diminished Red Lake Indian Reservation: Township 151 N; Range 36 W of the 5th PM.; Page 17: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/615/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/615/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/615",
+                  "height": 4867,
+                  "width": 3760,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3760,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1880,
+                      "height": 2434
+                    },
+                    {
+                      "width": 940,
+                      "height": 1217
+                    },
+                    {
+                      "width": 470,
+                      "height": 608
+                    },
+                    {
+                      "width": 235,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/616/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Winsor Township: Township 150 N; Range 38 W of the 5th PM.; Page 19: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/616/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/616/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/616",
+                  "height": 4867,
+                  "width": 3760,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3760,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1880,
+                      "height": 2434
+                    },
+                    {
+                      "width": 940,
+                      "height": 1217
+                    },
+                    {
+                      "width": 470,
+                      "height": 608
+                    },
+                    {
+                      "width": 235,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/617/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Greenwood Township: Township 150 N; Range 37 W of the 5th PM.; Page 21: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/617/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/617/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/617",
+                  "height": 4867,
+                  "width": 3760,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3760,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1880,
+                      "height": 2434
+                    },
+                    {
+                      "width": 940,
+                      "height": 1217
+                    },
+                    {
+                      "width": 470,
+                      "height": 608
+                    },
+                    {
+                      "width": 235,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/618/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Part of Diminished Red Lake Indian Reservation: Township 150 N; Range 36 W of the 5th PM.; Page 23: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/618/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/618/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/618",
+                  "height": 4867,
+                  "width": 3760,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3760,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1880,
+                      "height": 2434
+                    },
+                    {
+                      "width": 940,
+                      "height": 1217
+                    },
+                    {
+                      "width": 470,
+                      "height": 608
+                    },
+                    {
+                      "width": 235,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/619/info.json",
+          "@type": "sc:Canvas",
+          "label": "Advertisements.; Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/619/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/619/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/619",
+                  "height": 4867,
+                  "width": 3600,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3600,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1800,
+                      "height": 2434
+                    },
+                    {
+                      "width": 900,
+                      "height": 1217
+                    },
+                    {
+                      "width": 450,
+                      "height": 608
+                    },
+                    {
+                      "width": 225,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/620/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Pine Lake Township: Township 149 N; Range 38 W of the 5th PM.; Page 25: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/620/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/620/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/620",
+                  "height": 4867,
+                  "width": 3600,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3600,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1800,
+                      "height": 2434
+                    },
+                    {
+                      "width": 900,
+                      "height": 1217
+                    },
+                    {
+                      "width": 450,
+                      "height": 608
+                    },
+                    {
+                      "width": 225,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/621/info.json",
+          "@type": "sc:Canvas",
+          "label": "Advertisements.; Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/621/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/621/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/621",
+                  "height": 4867,
+                  "width": 3600,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3600,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1800,
+                      "height": 2434
+                    },
+                    {
+                      "width": 900,
+                      "height": 1217
+                    },
+                    {
+                      "width": 450,
+                      "height": 608
+                    },
+                    {
+                      "width": 225,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/622/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Leon Township: Township 149 N; Range 37 W of the 5th PM.; Page 27: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/622/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/622/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/622",
+                  "height": 4867,
+                  "width": 3600,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3600,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1800,
+                      "height": 2434
+                    },
+                    {
+                      "width": 900,
+                      "height": 1217
+                    },
+                    {
+                      "width": 450,
+                      "height": 608
+                    },
+                    {
+                      "width": 225,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/623/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Sinclair Township: Township 149 N; Range 36 W of the 5th PM.; Page 29: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/623/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/623/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/623",
+                  "height": 4867,
+                  "width": 3600,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3600,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1800,
+                      "height": 2434
+                    },
+                    {
+                      "width": 900,
+                      "height": 1217
+                    },
+                    {
+                      "width": 450,
+                      "height": 608
+                    },
+                    {
+                      "width": 225,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/624/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Eddy Township: Township 148 N; Range 38 W of the 5th PM.; Page 31: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/624/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/624/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/624",
+                  "height": 4867,
+                  "width": 3600,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3600,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1800,
+                      "height": 2434
+                    },
+                    {
+                      "width": 900,
+                      "height": 1217
+                    },
+                    {
+                      "width": 450,
+                      "height": 608
+                    },
+                    {
+                      "width": 225,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/625/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Holst Township: Township 148 N; Range 37 W of the 5th PM.; Page 33: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/625/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/625/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/625",
+                  "height": 4867,
+                  "width": 3600,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3600,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1800,
+                      "height": 2434
+                    },
+                    {
+                      "width": 900,
+                      "height": 1217
+                    },
+                    {
+                      "width": 450,
+                      "height": 608
+                    },
+                    {
+                      "width": 225,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/626/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Dudley Township: Township 148 N; Range 36 W of the 5th PM.; Page 35: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/626/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/626/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/626",
+                  "height": 4867,
+                  "width": 3600,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3600,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1800,
+                      "height": 2434
+                    },
+                    {
+                      "width": 900,
+                      "height": 1217
+                    },
+                    {
+                      "width": 450,
+                      "height": 608
+                    },
+                    {
+                      "width": 225,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/627/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Popple Township: Township 147 N; Range 38 W of the 5th PM.; Page 37: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/627/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/627/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/627",
+                  "height": 4867,
+                  "width": 3616,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3616,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1808,
+                      "height": 2434
+                    },
+                    {
+                      "width": 904,
+                      "height": 1217
+                    },
+                    {
+                      "width": 452,
+                      "height": 608
+                    },
+                    {
+                      "width": 226,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/628/info.json",
+          "@type": "sc:Canvas",
+          "label": "Advertisements.; Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/628/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/628/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/628",
+                  "height": 4867,
+                  "width": 3616,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3616,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1808,
+                      "height": 2434
+                    },
+                    {
+                      "width": 904,
+                      "height": 1217
+                    },
+                    {
+                      "width": 452,
+                      "height": 608
+                    },
+                    {
+                      "width": 226,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/629/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Copley Township: Township 147 N; Range 37 W of the 5th PM.; Page 39: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/629/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/629/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/629",
+                  "height": 4867,
+                  "width": 3616,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3616,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1808,
+                      "height": 2434
+                    },
+                    {
+                      "width": 904,
+                      "height": 1217
+                    },
+                    {
+                      "width": 452,
+                      "height": 608
+                    },
+                    {
+                      "width": 226,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/630/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Shevlin Township: Township 147 N; Range 36 W of the 5th PM.; Page 41: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/630/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/630/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/630",
+                  "height": 4867,
+                  "width": 3616,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3616,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1808,
+                      "height": 2434
+                    },
+                    {
+                      "width": 904,
+                      "height": 1217
+                    },
+                    {
+                      "width": 452,
+                      "height": 608
+                    },
+                    {
+                      "width": 226,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/631/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Part of White Earth Indian Reservation: Township 146 N; Range 38 W of the 5th PM.; Page 43: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/631/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/631/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/631",
+                  "height": 4867,
+                  "width": 3616,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3616,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1808,
+                      "height": 2434
+                    },
+                    {
+                      "width": 904,
+                      "height": 1217
+                    },
+                    {
+                      "width": 452,
+                      "height": 608
+                    },
+                    {
+                      "width": 226,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/632/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Nora Township: Township 146 N; Range 37 W of the 5th PM.; Page 45: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/632/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/632/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/632",
+                  "height": 4867,
+                  "width": 3616,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3616,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1808,
+                      "height": 2434
+                    },
+                    {
+                      "width": 904,
+                      "height": 1217
+                    },
+                    {
+                      "width": 452,
+                      "height": 608
+                    },
+                    {
+                      "width": 226,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/633/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Moose Creek Township: Township 146 N; Range 36 W of the 5th PM.; Page 47: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/633/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/633/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/633",
+                  "height": 4867,
+                  "width": 3616,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3616,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1808,
+                      "height": 2434
+                    },
+                    {
+                      "width": 904,
+                      "height": 1217
+                    },
+                    {
+                      "width": 452,
+                      "height": 608
+                    },
+                    {
+                      "width": 226,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/634/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Part of White Earth Indian Reservation: Township 145 N; Range 38 W of the 5th PM.; Page 49: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/634/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/634/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/634",
+                  "height": 4867,
+                  "width": 3616,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3616,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1808,
+                      "height": 2434
+                    },
+                    {
+                      "width": 904,
+                      "height": 1217
+                    },
+                    {
+                      "width": 452,
+                      "height": 608
+                    },
+                    {
+                      "width": 226,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/635/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Minerva Township: Township 145 N; Range 37 W of the 5th PM.; Page 51: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/635/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/635/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/635",
+                  "height": 4867,
+                  "width": 3616,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3616,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1808,
+                      "height": 2434
+                    },
+                    {
+                      "width": 904,
+                      "height": 1217
+                    },
+                    {
+                      "width": 452,
+                      "height": 608
+                    },
+                    {
+                      "width": 226,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/636/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Bear Creek Township: Township 145 N; Range 36 W of the 5th PM.; Page 53: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/636/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/636/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/636",
+                  "height": 4867,
+                  "width": 3616,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3616,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1808,
+                      "height": 2434
+                    },
+                    {
+                      "width": 904,
+                      "height": 1217
+                    },
+                    {
+                      "width": 452,
+                      "height": 608
+                    },
+                    {
+                      "width": 226,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/637/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Part of White Earth Indian Reservation: Township 144 N; Range 38 W of the 5th PM.; Page 55: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/637/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/637/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/637",
+                  "height": 4867,
+                  "width": 3616,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3616,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1808,
+                      "height": 2434
+                    },
+                    {
+                      "width": 904,
+                      "height": 1217
+                    },
+                    {
+                      "width": 452,
+                      "height": 608
+                    },
+                    {
+                      "width": 226,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/638/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Rice Township: Township 144 N; Range 37 W of the 5th PM.; Page 57: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/638/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/638/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/638",
+                  "height": 4867,
+                  "width": 3616,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3616,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1808,
+                      "height": 2434
+                    },
+                    {
+                      "width": 904,
+                      "height": 1217
+                    },
+                    {
+                      "width": 452,
+                      "height": 608
+                    },
+                    {
+                      "width": 226,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/639/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Itasca Township: Township 144 N; Range 36 W of the 5th PM.; Page 59: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/639/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/639/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/639",
+                  "height": 4867,
+                  "width": 3616,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3616,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1808,
+                      "height": 2434
+                    },
+                    {
+                      "width": 904,
+                      "height": 1217
+                    },
+                    {
+                      "width": 452,
+                      "height": 608
+                    },
+                    {
+                      "width": 226,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/640/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Part of White Earth Indian Reservation: Township 143 N; Range 38 W of the 5th PM.; Page 61: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/640/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/640/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/640",
+                  "height": 4867,
+                  "width": 3616,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3616,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1808,
+                      "height": 2434
+                    },
+                    {
+                      "width": 904,
+                      "height": 1217
+                    },
+                    {
+                      "width": 452,
+                      "height": 608
+                    },
+                    {
+                      "width": 226,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/641/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Part of White Earth Indian Reservation: Township 143 N; Range 37 W of the 5th PM.; Page 63: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/641/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/641/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/641",
+                  "height": 4867,
+                  "width": 3616,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3616,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1808,
+                      "height": 2434
+                    },
+                    {
+                      "width": 904,
+                      "height": 1217
+                    },
+                    {
+                      "width": 452,
+                      "height": 608
+                    },
+                    {
+                      "width": 226,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/642/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Unorganized Township: Township 143 N; Range 36 W of the 5th PM.; Page 65: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/642/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/642/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/642",
+                  "height": 4867,
+                  "width": 3616,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3616,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1808,
+                      "height": 2434
+                    },
+                    {
+                      "width": 904,
+                      "height": 1217
+                    },
+                    {
+                      "width": 452,
+                      "height": 608
+                    },
+                    {
+                      "width": 226,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/643/info.json",
+          "@type": "sc:Canvas",
+          "label": "Maps of Leonard, Murray, & Ebro; Page 67: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/643/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/643/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/643",
+                  "height": 4867,
+                  "width": 3616,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3616,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1808,
+                      "height": 2434
+                    },
+                    {
+                      "width": 904,
+                      "height": 1217
+                    },
+                    {
+                      "width": 452,
+                      "height": 608
+                    },
+                    {
+                      "width": 226,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/644/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Mallard; Page 69: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/644/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/644/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/644",
+                  "height": 4867,
+                  "width": 3616,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3616,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1808,
+                      "height": 2434
+                    },
+                    {
+                      "width": 904,
+                      "height": 1217
+                    },
+                    {
+                      "width": 452,
+                      "height": 608
+                    },
+                    {
+                      "width": 226,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/645/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Bagley; Page 71: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/645/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/645/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/645",
+                  "height": 4867,
+                  "width": 3616,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3616,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1808,
+                      "height": 2434
+                    },
+                    {
+                      "width": 904,
+                      "height": 1217
+                    },
+                    {
+                      "width": 452,
+                      "height": 608
+                    },
+                    {
+                      "width": 226,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/646/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Gonvick; Page 73: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/646/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/646/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/646",
+                  "height": 4867,
+                  "width": 3616,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3616,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1808,
+                      "height": 2434
+                    },
+                    {
+                      "width": 904,
+                      "height": 1217
+                    },
+                    {
+                      "width": 452,
+                      "height": 608
+                    },
+                    {
+                      "width": 226,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/647/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Shevlin; Page 75: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/647/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/647/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/647",
+                  "height": 4867,
+                  "width": 3680,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3680,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1840,
+                      "height": 2434
+                    },
+                    {
+                      "width": 920,
+                      "height": 1217
+                    },
+                    {
+                      "width": 460,
+                      "height": 608
+                    },
+                    {
+                      "width": 230,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/648/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Clearbrook; Page 77: Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/648/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/648/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/648",
+                  "height": 4867,
+                  "width": 3680,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3680,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1840,
+                      "height": 2434
+                    },
+                    {
+                      "width": 920,
+                      "height": 1217
+                    },
+                    {
+                      "width": 460,
+                      "height": 608
+                    },
+                    {
+                      "width": 230,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/649/info.json",
+          "@type": "sc:Canvas",
+          "label": "Location with Population of all Incorporated Towns in Minnesota; Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/649/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/649/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/649",
+                  "height": 4867,
+                  "width": 3680,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3680,
+                      "height": 4867
+                    },
+                    {
+                      "width": 1840,
+                      "height": 2434
+                    },
+                    {
+                      "width": 920,
+                      "height": 1217
+                    },
+                    {
+                      "width": 460,
+                      "height": 608
+                    },
+                    {
+                      "width": 230,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/650/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Minnesota; Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/650/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/650/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/650",
+                  "height": 4867,
+                  "width": 7296,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 7296,
+                      "height": 4867
+                    },
+                    {
+                      "width": 3648,
+                      "height": 2434
+                    },
+                    {
+                      "width": 1824,
+                      "height": 1217
+                    },
+                    {
+                      "width": 912,
+                      "height": 608
+                    },
+                    {
+                      "width": 456,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/651/info.json",
+          "@type": "sc:Canvas",
+          "label": "Location with Population of all Incorporated Towns in Minnesota; Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/651/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/651/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/651",
+                  "height": 4867,
+                  "width": 7296,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 7296,
+                      "height": 4867
+                    },
+                    {
+                      "width": 3648,
+                      "height": 2434
+                    },
+                    {
+                      "width": 1824,
+                      "height": 1217
+                    },
+                    {
+                      "width": 912,
+                      "height": 608
+                    },
+                    {
+                      "width": 456,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/652/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of the United States; Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/652/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/652/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/652",
+                  "height": 4867,
+                  "width": 7296,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 7296,
+                      "height": 4867
+                    },
+                    {
+                      "width": 3648,
+                      "height": 2434
+                    },
+                    {
+                      "width": 1824,
+                      "height": 1217
+                    },
+                    {
+                      "width": 912,
+                      "height": 608
+                    },
+                    {
+                      "width": 456,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/653/info.json",
+          "@type": "sc:Canvas",
+          "label": "Minnesota Population Index, List of all Property Owners in Clearwater County; Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/653/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/653/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/653",
+                  "height": 4867,
+                  "width": 7296,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 7296,
+                      "height": 4867
+                    },
+                    {
+                      "width": 3648,
+                      "height": 2434
+                    },
+                    {
+                      "width": 1824,
+                      "height": 1217
+                    },
+                    {
+                      "width": 912,
+                      "height": 608
+                    },
+                    {
+                      "width": 456,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/654/info.json",
+          "@type": "sc:Canvas",
+          "label": "List of all Property Owners in Clearwater County; Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/654/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/654/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/654",
+                  "height": 4867,
+                  "width": 7344,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 7344,
+                      "height": 4867
+                    },
+                    {
+                      "width": 3672,
+                      "height": 2434
+                    },
+                    {
+                      "width": 1836,
+                      "height": 1217
+                    },
+                    {
+                      "width": 918,
+                      "height": 608
+                    },
+                    {
+                      "width": 459,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/655/info.json",
+          "@type": "sc:Canvas",
+          "label": "List of all Property Owners in Clearwater County; Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/655/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/655/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/655",
+                  "height": 4867,
+                  "width": 7344,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 7344,
+                      "height": 4867
+                    },
+                    {
+                      "width": 3672,
+                      "height": 2434
+                    },
+                    {
+                      "width": 1836,
+                      "height": 1217
+                    },
+                    {
+                      "width": 918,
+                      "height": 608
+                    },
+                    {
+                      "width": 459,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/656/info.json",
+          "@type": "sc:Canvas",
+          "label": "List of all Property Owners in Clearwater County; Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/656/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/656/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/656",
+                  "height": 4867,
+                  "width": 7344,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 7344,
+                      "height": 4867
+                    },
+                    {
+                      "width": 3672,
+                      "height": 2434
+                    },
+                    {
+                      "width": 1836,
+                      "height": 1217
+                    },
+                    {
+                      "width": 918,
+                      "height": 608
+                    },
+                    {
+                      "width": 459,
+                      "height": 304
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/657/info.json",
+          "@type": "sc:Canvas",
+          "label": "Rear Cover; Atlas of Clearwater County, Minnesota, 1912",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/657/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/657/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/657",
+                  "height": 4915,
+                  "width": 3904,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 3904,
+                      "height": 4915
+                    },
+                    {
+                      "width": 1952,
+                      "height": 2458
+                    },
+                    {
+                      "width": 976,
+                      "height": 1229
+                    },
+                    {
+                      "width": 488,
+                      "height": 614
+                    },
+                    {
+                      "width": 244,
+                      "height": 307
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

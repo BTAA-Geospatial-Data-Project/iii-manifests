@@ -1,0 +1,4508 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/BTAA-Geospatial-Data-Project/iiif-manifests/master/manifest_3f8fef84-74d3-4e5a-aadd-44350c6419ce.json",
+  "@type": "sc:Manifest",
+  "label": "Parent Record; Standard atlas of Nobles County, Minnesota",
+  "metadata": [
+    {
+      "label": "Description",
+      "value": "Standard atlas of Nobles County, Minnesota: including a plat book of the villages, cities and townships of the county. Compiled and published by Geo. A. Ogle & Co. Chicago : The Company c1914."
+    },
+    {
+      "label": "Creator",
+      "value": "Geo. A. Ogle & Co."
+    }
+  ],
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2235/info.json",
+          "@type": "sc:Canvas",
+          "label": "Front Cover; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2235/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2235/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2235",
+                  "height": 5836,
+                  "width": 5130,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 5130,
+                      "height": 5836
+                    },
+                    {
+                      "width": 2565,
+                      "height": 2918
+                    },
+                    {
+                      "width": 1283,
+                      "height": 1459
+                    },
+                    {
+                      "width": 641,
+                      "height": 730
+                    },
+                    {
+                      "width": 321,
+                      "height": 365
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2236/info.json",
+          "@type": "sc:Canvas",
+          "label": "Title Page; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2236/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2236/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2236",
+                  "height": 5691,
+                  "width": 4872,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4872,
+                      "height": 5691
+                    },
+                    {
+                      "width": 2436,
+                      "height": 2846
+                    },
+                    {
+                      "width": 1218,
+                      "height": 1423
+                    },
+                    {
+                      "width": 609,
+                      "height": 711
+                    },
+                    {
+                      "width": 305,
+                      "height": 356
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2237/info.json",
+          "@type": "sc:Canvas",
+          "label": "Table of Contents; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2237/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2237/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2237",
+                  "height": 5756,
+                  "width": 4800,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4800,
+                      "height": 5756
+                    },
+                    {
+                      "width": 2400,
+                      "height": 2878
+                    },
+                    {
+                      "width": 1200,
+                      "height": 1439
+                    },
+                    {
+                      "width": 600,
+                      "height": 720
+                    },
+                    {
+                      "width": 300,
+                      "height": 360
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2238/info.json",
+          "@type": "sc:Canvas",
+          "label": "Index to Illustrations; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2238/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2238/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2238",
+                  "height": 5756,
+                  "width": 4768,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4768,
+                      "height": 5756
+                    },
+                    {
+                      "width": 2384,
+                      "height": 2878
+                    },
+                    {
+                      "width": 1192,
+                      "height": 1439
+                    },
+                    {
+                      "width": 596,
+                      "height": 720
+                    },
+                    {
+                      "width": 298,
+                      "height": 360
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2239/info.json",
+          "@type": "sc:Canvas",
+          "label": "Outline Map of Nobles County; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2239/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2239/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2239",
+                  "height": 5756,
+                  "width": 4767,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4767,
+                      "height": 5756
+                    },
+                    {
+                      "width": 2384,
+                      "height": 2878
+                    },
+                    {
+                      "width": 1192,
+                      "height": 1439
+                    },
+                    {
+                      "width": 596,
+                      "height": 720
+                    },
+                    {
+                      "width": 298,
+                      "height": 360
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2240/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Worthington; Page 10 & 11: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2240/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2240/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2240",
+                  "height": 5756,
+                  "width": 9177,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9177,
+                      "height": 5756
+                    },
+                    {
+                      "width": 4589,
+                      "height": 2878
+                    },
+                    {
+                      "width": 2294,
+                      "height": 1439
+                    },
+                    {
+                      "width": 1147,
+                      "height": 720
+                    },
+                    {
+                      "width": 574,
+                      "height": 360
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2241/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Adrian & Round Lake; Pages 14 & 15: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2241/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2241/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2241",
+                  "height": 5756,
+                  "width": 9177,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9177,
+                      "height": 5756
+                    },
+                    {
+                      "width": 4589,
+                      "height": 2878
+                    },
+                    {
+                      "width": 2294,
+                      "height": 1439
+                    },
+                    {
+                      "width": 1147,
+                      "height": 720
+                    },
+                    {
+                      "width": 574,
+                      "height": 360
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2242/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Ellsworth; Rushmore; Hersey Platted as Brewster; Leota; Pages 18 & 19: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2242/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2242/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2242",
+                  "height": 5756,
+                  "width": 9177,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9177,
+                      "height": 5756
+                    },
+                    {
+                      "width": 4589,
+                      "height": 2878
+                    },
+                    {
+                      "width": 2294,
+                      "height": 1439
+                    },
+                    {
+                      "width": 1147,
+                      "height": 720
+                    },
+                    {
+                      "width": 574,
+                      "height": 360
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2243/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Kinbrae; Bilgelow; Wilmont; Dundee; St Kilian; Pages 22 & 23: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2243/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2243/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2243",
+                  "height": 5756,
+                  "width": 9177,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9177,
+                      "height": 5756
+                    },
+                    {
+                      "width": 4589,
+                      "height": 2878
+                    },
+                    {
+                      "width": 2294,
+                      "height": 1439
+                    },
+                    {
+                      "width": 1147,
+                      "height": 720
+                    },
+                    {
+                      "width": 574,
+                      "height": 360
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2244/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Lismore; Org.; Page 25: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2244/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2244/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2244",
+                  "height": 5578,
+                  "width": 4745,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4745,
+                      "height": 5578
+                    },
+                    {
+                      "width": 2373,
+                      "height": 2789
+                    },
+                    {
+                      "width": 1186,
+                      "height": 1395
+                    },
+                    {
+                      "width": 593,
+                      "height": 697
+                    },
+                    {
+                      "width": 297,
+                      "height": 349
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2245/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Indian Lake Township: Township 101 N; Range 39 W of the 5th PM.; Page 27: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2245/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2245/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2245",
+                  "height": 5756,
+                  "width": 4767,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4767,
+                      "height": 5756
+                    },
+                    {
+                      "width": 2384,
+                      "height": 2878
+                    },
+                    {
+                      "width": 1192,
+                      "height": 1439
+                    },
+                    {
+                      "width": 596,
+                      "height": 720
+                    },
+                    {
+                      "width": 298,
+                      "height": 360
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2246/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Lorain Township: Township 102 N; Range 39 W of the 5th PM.; Page 29: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2246/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2246/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2246",
+                  "height": 5756,
+                  "width": 4767,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4767,
+                      "height": 5756
+                    },
+                    {
+                      "width": 2384,
+                      "height": 2878
+                    },
+                    {
+                      "width": 1192,
+                      "height": 1439
+                    },
+                    {
+                      "width": 596,
+                      "height": 720
+                    },
+                    {
+                      "width": 298,
+                      "height": 360
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2247/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Hersey Township: Township 103 N; Range 39 W of the 5th PM.; Page 31: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2247/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2247/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2247",
+                  "height": 5756,
+                  "width": 4767,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4767,
+                      "height": 5756
+                    },
+                    {
+                      "width": 2384,
+                      "height": 2878
+                    },
+                    {
+                      "width": 1192,
+                      "height": 1439
+                    },
+                    {
+                      "width": 596,
+                      "height": 720
+                    },
+                    {
+                      "width": 298,
+                      "height": 360
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2248/info.json",
+          "@type": "sc:Canvas",
+          "label": "14 Duplicate of Graham Lake; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2248/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2248/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2248",
+                  "height": 5756,
+                  "width": 4767,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4767,
+                      "height": 5756
+                    },
+                    {
+                      "width": 2384,
+                      "height": 2878
+                    },
+                    {
+                      "width": 1192,
+                      "height": 1439
+                    },
+                    {
+                      "width": 596,
+                      "height": 720
+                    },
+                    {
+                      "width": 298,
+                      "height": 360
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2249/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Graham Lake Township: Township 104 N; Range 39 W of the 5th PM.; Page 33: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2249/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2249/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2249",
+                  "height": 5756,
+                  "width": 4524,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4524,
+                      "height": 5756
+                    },
+                    {
+                      "width": 2262,
+                      "height": 2878
+                    },
+                    {
+                      "width": 1131,
+                      "height": 1439
+                    },
+                    {
+                      "width": 566,
+                      "height": 720
+                    },
+                    {
+                      "width": 283,
+                      "height": 360
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2250/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Bigelow Township: Township 101 N; Range 40 W of the 5th PM.; Page 35: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2250/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2250/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2250",
+                  "height": 5757,
+                  "width": 4524,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4524,
+                      "height": 5757
+                    },
+                    {
+                      "width": 2262,
+                      "height": 2879
+                    },
+                    {
+                      "width": 1131,
+                      "height": 1439
+                    },
+                    {
+                      "width": 566,
+                      "height": 720
+                    },
+                    {
+                      "width": 283,
+                      "height": 360
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2251/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Worthington Township: Township 102 N; Range 40 W of the 5th PM.; Page 37: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2251/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2251/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2251",
+                  "height": 5757,
+                  "width": 4524,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4524,
+                      "height": 5757
+                    },
+                    {
+                      "width": 2262,
+                      "height": 2879
+                    },
+                    {
+                      "width": 1131,
+                      "height": 1439
+                    },
+                    {
+                      "width": 566,
+                      "height": 720
+                    },
+                    {
+                      "width": 283,
+                      "height": 360
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2252/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Elk Township: Township 103 N; Range 40 W of the 5th PM.; Page 39: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2252/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2252/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2252",
+                  "height": 5707,
+                  "width": 4523,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4523,
+                      "height": 5707
+                    },
+                    {
+                      "width": 2262,
+                      "height": 2854
+                    },
+                    {
+                      "width": 1131,
+                      "height": 1427
+                    },
+                    {
+                      "width": 565,
+                      "height": 713
+                    },
+                    {
+                      "width": 283,
+                      "height": 357
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2253/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Seward Township: Township 104 N; Range 40 W of the 5th PM.; Page 41: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2253/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2253/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2253",
+                  "height": 5707,
+                  "width": 4523,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4523,
+                      "height": 5707
+                    },
+                    {
+                      "width": 2262,
+                      "height": 2854
+                    },
+                    {
+                      "width": 1131,
+                      "height": 1427
+                    },
+                    {
+                      "width": 565,
+                      "height": 713
+                    },
+                    {
+                      "width": 283,
+                      "height": 357
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2254/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Ransom Township: Township 101 N; Range 41 W of the 5th PM.; Page 43: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2254/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2254/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2254",
+                  "height": 5707,
+                  "width": 4523,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4523,
+                      "height": 5707
+                    },
+                    {
+                      "width": 2262,
+                      "height": 2854
+                    },
+                    {
+                      "width": 1131,
+                      "height": 1427
+                    },
+                    {
+                      "width": 565,
+                      "height": 713
+                    },
+                    {
+                      "width": 283,
+                      "height": 357
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2255/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Dewald Township: Township 102 N; Range 41 W of the 5th PM.; Page 45: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2255/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2255/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2255",
+                  "height": 5708,
+                  "width": 4524,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4524,
+                      "height": 5708
+                    },
+                    {
+                      "width": 2262,
+                      "height": 2854
+                    },
+                    {
+                      "width": 1131,
+                      "height": 1427
+                    },
+                    {
+                      "width": 566,
+                      "height": 714
+                    },
+                    {
+                      "width": 283,
+                      "height": 357
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2256/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Summit Lake Township: Township 103 N; Range 41 W of the 5th PM.; Page 47: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2256/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2256/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2256",
+                  "height": 5708,
+                  "width": 4524,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4524,
+                      "height": 5708
+                    },
+                    {
+                      "width": 2262,
+                      "height": 2854
+                    },
+                    {
+                      "width": 1131,
+                      "height": 1427
+                    },
+                    {
+                      "width": 566,
+                      "height": 714
+                    },
+                    {
+                      "width": 283,
+                      "height": 357
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2257/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Bloom Township: Township 104 N; Range 41 W of the 5th PM.; Page 49: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2257/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2257/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2257",
+                  "height": 5708,
+                  "width": 4524,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4524,
+                      "height": 5708
+                    },
+                    {
+                      "width": 2262,
+                      "height": 2854
+                    },
+                    {
+                      "width": 1131,
+                      "height": 1427
+                    },
+                    {
+                      "width": 566,
+                      "height": 714
+                    },
+                    {
+                      "width": 283,
+                      "height": 357
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2258/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Little Rock Township: Township 101 N; Range 42 W of the 5th PM.; Page 51: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2258/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2258/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2258",
+                  "height": 5707,
+                  "width": 4523,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4523,
+                      "height": 5707
+                    },
+                    {
+                      "width": 2262,
+                      "height": 2854
+                    },
+                    {
+                      "width": 1131,
+                      "height": 1427
+                    },
+                    {
+                      "width": 565,
+                      "height": 713
+                    },
+                    {
+                      "width": 283,
+                      "height": 357
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2259/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Olney Township: Township 102 N; Range 42 W of the 5th PM.; Page 53: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2259/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2259/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2259",
+                  "height": 5708,
+                  "width": 4524,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4524,
+                      "height": 5708
+                    },
+                    {
+                      "width": 2262,
+                      "height": 2854
+                    },
+                    {
+                      "width": 1131,
+                      "height": 1427
+                    },
+                    {
+                      "width": 566,
+                      "height": 714
+                    },
+                    {
+                      "width": 283,
+                      "height": 357
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2260/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Larkin Township: Township 103 N; Range 42 W of the 5th PM.; Page 55: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2260/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2260/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2260",
+                  "height": 5708,
+                  "width": 4817,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4817,
+                      "height": 5708
+                    },
+                    {
+                      "width": 2409,
+                      "height": 2854
+                    },
+                    {
+                      "width": 1204,
+                      "height": 1427
+                    },
+                    {
+                      "width": 602,
+                      "height": 714
+                    },
+                    {
+                      "width": 301,
+                      "height": 357
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2261/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Willmont [i.e. Wilmont] Township: Township 104 N; Range 42 W of the 5th PM.; Page 57: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2261/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2261/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2261",
+                  "height": 5708,
+                  "width": 4621,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4621,
+                      "height": 5708
+                    },
+                    {
+                      "width": 2311,
+                      "height": 2854
+                    },
+                    {
+                      "width": 1155,
+                      "height": 1427
+                    },
+                    {
+                      "width": 578,
+                      "height": 714
+                    },
+                    {
+                      "width": 289,
+                      "height": 357
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2262/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Grand Prairie Township: Township 101 N; Range 43 W of the 5th PM.; Page 59: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2262/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2262/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2262",
+                  "height": 5757,
+                  "width": 4653,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4653,
+                      "height": 5757
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2879
+                    },
+                    {
+                      "width": 1163,
+                      "height": 1439
+                    },
+                    {
+                      "width": 582,
+                      "height": 720
+                    },
+                    {
+                      "width": 291,
+                      "height": 360
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2263/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Westside Township: Township 102 N; Range 43 W of the 5th PM.; Page 61: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2263/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2263/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2263",
+                  "height": 5757,
+                  "width": 4653,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4653,
+                      "height": 5757
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2879
+                    },
+                    {
+                      "width": 1163,
+                      "height": 1439
+                    },
+                    {
+                      "width": 582,
+                      "height": 720
+                    },
+                    {
+                      "width": 291,
+                      "height": 360
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2264/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Lismore Township: Township 103 N; Range 43 W of the 5th PM.; Page 63: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2264/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2264/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2264",
+                  "height": 5757,
+                  "width": 4653,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4653,
+                      "height": 5757
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2879
+                    },
+                    {
+                      "width": 1163,
+                      "height": 1439
+                    },
+                    {
+                      "width": 582,
+                      "height": 720
+                    },
+                    {
+                      "width": 291,
+                      "height": 360
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2265/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Leota Township: Township 104 N; Range 43 W of the 5th PM.; Page 65: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2265/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2265/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2265",
+                  "height": 5757,
+                  "width": 4588,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4588,
+                      "height": 5757
+                    },
+                    {
+                      "width": 2294,
+                      "height": 2879
+                    },
+                    {
+                      "width": 1147,
+                      "height": 1439
+                    },
+                    {
+                      "width": 574,
+                      "height": 720
+                    },
+                    {
+                      "width": 287,
+                      "height": 360
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2266/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Minnesota; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2266/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2266/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2266",
+                  "height": 5806,
+                  "width": 8982,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 8982,
+                      "height": 5806
+                    },
+                    {
+                      "width": 4491,
+                      "height": 2903
+                    },
+                    {
+                      "width": 2246,
+                      "height": 1452
+                    },
+                    {
+                      "width": 1123,
+                      "height": 726
+                    },
+                    {
+                      "width": 561,
+                      "height": 363
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2267/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of the United States; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2267/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2267/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2267",
+                  "height": 5806,
+                  "width": 8982,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 8982,
+                      "height": 5806
+                    },
+                    {
+                      "width": 4491,
+                      "height": 2903
+                    },
+                    {
+                      "width": 2246,
+                      "height": 1452
+                    },
+                    {
+                      "width": 1123,
+                      "height": 726
+                    },
+                    {
+                      "width": 561,
+                      "height": 363
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2268/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of the World; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2268/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2268/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2268",
+                  "height": 5806,
+                  "width": 8982,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 8982,
+                      "height": 5806
+                    },
+                    {
+                      "width": 4491,
+                      "height": 2903
+                    },
+                    {
+                      "width": 2246,
+                      "height": 1452
+                    },
+                    {
+                      "width": 1123,
+                      "height": 726
+                    },
+                    {
+                      "width": 561,
+                      "height": 363
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2269/info.json",
+          "@type": "sc:Canvas",
+          "label": "35 Reference Directory of Nobles County; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2269/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2269/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2269",
+                  "height": 5806,
+                  "width": 4686,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4686,
+                      "height": 5806
+                    },
+                    {
+                      "width": 2343,
+                      "height": 2903
+                    },
+                    {
+                      "width": 1172,
+                      "height": 1452
+                    },
+                    {
+                      "width": 586,
+                      "height": 726
+                    },
+                    {
+                      "width": 293,
+                      "height": 363
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2270/info.json",
+          "@type": "sc:Canvas",
+          "label": "36 Reference Directory of Nobles County; Page 80: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2270/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2270/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2270",
+                  "height": 5805,
+                  "width": 4686,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4686,
+                      "height": 5805
+                    },
+                    {
+                      "width": 2343,
+                      "height": 2903
+                    },
+                    {
+                      "width": 1172,
+                      "height": 1451
+                    },
+                    {
+                      "width": 586,
+                      "height": 726
+                    },
+                    {
+                      "width": 293,
+                      "height": 363
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2271/info.json",
+          "@type": "sc:Canvas",
+          "label": "37 Advertising Section; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2271/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2271/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2271",
+                  "height": 5805,
+                  "width": 4686,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4686,
+                      "height": 5805
+                    },
+                    {
+                      "width": 2343,
+                      "height": 2903
+                    },
+                    {
+                      "width": 1172,
+                      "height": 1451
+                    },
+                    {
+                      "width": 586,
+                      "height": 726
+                    },
+                    {
+                      "width": 293,
+                      "height": 363
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2272/info.json",
+          "@type": "sc:Canvas",
+          "label": "38 Advertising Section; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2272/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2272/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2272",
+                  "height": 5805,
+                  "width": 4686,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4686,
+                      "height": 5805
+                    },
+                    {
+                      "width": 2343,
+                      "height": 2903
+                    },
+                    {
+                      "width": 1172,
+                      "height": 1451
+                    },
+                    {
+                      "width": 586,
+                      "height": 726
+                    },
+                    {
+                      "width": 293,
+                      "height": 363
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2273/info.json",
+          "@type": "sc:Canvas",
+          "label": "39 Advertising Section; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2273/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2273/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2273",
+                  "height": 5805,
+                  "width": 4654,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4654,
+                      "height": 5805
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2903
+                    },
+                    {
+                      "width": 1164,
+                      "height": 1451
+                    },
+                    {
+                      "width": 582,
+                      "height": 726
+                    },
+                    {
+                      "width": 291,
+                      "height": 363
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2274/info.json",
+          "@type": "sc:Canvas",
+          "label": "40 Advertising Section; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2274/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2274/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2274",
+                  "height": 5805,
+                  "width": 4653,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4653,
+                      "height": 5805
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2903
+                    },
+                    {
+                      "width": 1163,
+                      "height": 1451
+                    },
+                    {
+                      "width": 582,
+                      "height": 726
+                    },
+                    {
+                      "width": 291,
+                      "height": 363
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2275/info.json",
+          "@type": "sc:Canvas",
+          "label": "41 Advertising Section; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2275/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2275/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2275",
+                  "height": 5805,
+                  "width": 4653,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4653,
+                      "height": 5805
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2903
+                    },
+                    {
+                      "width": 1163,
+                      "height": 1451
+                    },
+                    {
+                      "width": 582,
+                      "height": 726
+                    },
+                    {
+                      "width": 291,
+                      "height": 363
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2276/info.json",
+          "@type": "sc:Canvas",
+          "label": "42 Illustrations; Page 87: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2276/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2276/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2276",
+                  "height": 5805,
+                  "width": 4653,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4653,
+                      "height": 5805
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2903
+                    },
+                    {
+                      "width": 1163,
+                      "height": 1451
+                    },
+                    {
+                      "width": 582,
+                      "height": 726
+                    },
+                    {
+                      "width": 291,
+                      "height": 363
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2277/info.json",
+          "@type": "sc:Canvas",
+          "label": "43 Illustrations; Page 89: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2277/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2277/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2277",
+                  "height": 5805,
+                  "width": 4654,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4654,
+                      "height": 5805
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2903
+                    },
+                    {
+                      "width": 1164,
+                      "height": 1451
+                    },
+                    {
+                      "width": 582,
+                      "height": 726
+                    },
+                    {
+                      "width": 291,
+                      "height": 363
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2278/info.json",
+          "@type": "sc:Canvas",
+          "label": "Illustrations; Page 91: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2278/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2278/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2278",
+                  "height": 5805,
+                  "width": 4654,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4654,
+                      "height": 5805
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2903
+                    },
+                    {
+                      "width": 1164,
+                      "height": 1451
+                    },
+                    {
+                      "width": 582,
+                      "height": 726
+                    },
+                    {
+                      "width": 291,
+                      "height": 363
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2279/info.json",
+          "@type": "sc:Canvas",
+          "label": "Illustrations; Page 93: Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2279/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2279/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2279",
+                  "height": 5805,
+                  "width": 4654,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4654,
+                      "height": 5805
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2903
+                    },
+                    {
+                      "width": 1164,
+                      "height": 1451
+                    },
+                    {
+                      "width": 582,
+                      "height": 726
+                    },
+                    {
+                      "width": 291,
+                      "height": 363
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2280/info.json",
+          "@type": "sc:Canvas",
+          "label": "Illustrations; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2280/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2280/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2280",
+                  "height": 5805,
+                  "width": 4654,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4654,
+                      "height": 5805
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2903
+                    },
+                    {
+                      "width": 1164,
+                      "height": 1451
+                    },
+                    {
+                      "width": 582,
+                      "height": 726
+                    },
+                    {
+                      "width": 291,
+                      "height": 363
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2281/info.json",
+          "@type": "sc:Canvas",
+          "label": "Analysis of the System of United States Land Surveys; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2281/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2281/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2281",
+                  "height": 5805,
+                  "width": 4654,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4654,
+                      "height": 5805
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2903
+                    },
+                    {
+                      "width": 1164,
+                      "height": 1451
+                    },
+                    {
+                      "width": 582,
+                      "height": 726
+                    },
+                    {
+                      "width": 291,
+                      "height": 363
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2282/info.json",
+          "@type": "sc:Canvas",
+          "label": "Public Land Survey; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2282/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2282/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2282",
+                  "height": 5773,
+                  "width": 4653,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4653,
+                      "height": 5773
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2887
+                    },
+                    {
+                      "width": 1163,
+                      "height": 1443
+                    },
+                    {
+                      "width": 582,
+                      "height": 722
+                    },
+                    {
+                      "width": 291,
+                      "height": 361
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2283/info.json",
+          "@type": "sc:Canvas",
+          "label": "Digest of the System of Civil Government; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2283/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2283/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2283",
+                  "height": 5773,
+                  "width": 4653,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4653,
+                      "height": 5773
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2887
+                    },
+                    {
+                      "width": 1163,
+                      "height": 1443
+                    },
+                    {
+                      "width": 582,
+                      "height": 722
+                    },
+                    {
+                      "width": 291,
+                      "height": 361
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2284/info.json",
+          "@type": "sc:Canvas",
+          "label": "Digest of the System of Civil Government; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2284/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2284/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2284",
+                  "height": 5773,
+                  "width": 4654,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4654,
+                      "height": 5773
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2887
+                    },
+                    {
+                      "width": 1164,
+                      "height": 1443
+                    },
+                    {
+                      "width": 582,
+                      "height": 722
+                    },
+                    {
+                      "width": 291,
+                      "height": 361
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2285/info.json",
+          "@type": "sc:Canvas",
+          "label": "Digest of the System of Civil Government; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2285/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2285/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2285",
+                  "height": 5773,
+                  "width": 4653,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4653,
+                      "height": 5773
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2887
+                    },
+                    {
+                      "width": 1163,
+                      "height": 1443
+                    },
+                    {
+                      "width": 582,
+                      "height": 722
+                    },
+                    {
+                      "width": 291,
+                      "height": 361
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2286/info.json",
+          "@type": "sc:Canvas",
+          "label": "Digest of the System of Civil Government; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2286/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2286/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2286",
+                  "height": 5773,
+                  "width": 4653,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4653,
+                      "height": 5773
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2887
+                    },
+                    {
+                      "width": 1163,
+                      "height": 1443
+                    },
+                    {
+                      "width": 582,
+                      "height": 722
+                    },
+                    {
+                      "width": 291,
+                      "height": 361
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2287/info.json",
+          "@type": "sc:Canvas",
+          "label": "General Information on Banking and Business Methods; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2287/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2287/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2287",
+                  "height": 5773,
+                  "width": 4653,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4653,
+                      "height": 5773
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2887
+                    },
+                    {
+                      "width": 1163,
+                      "height": 1443
+                    },
+                    {
+                      "width": 582,
+                      "height": 722
+                    },
+                    {
+                      "width": 291,
+                      "height": 361
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2288/info.json",
+          "@type": "sc:Canvas",
+          "label": "General Information on Banking and Business Methods; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2288/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2288/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2288",
+                  "height": 5773,
+                  "width": 4654,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4654,
+                      "height": 5773
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2887
+                    },
+                    {
+                      "width": 1164,
+                      "height": 1443
+                    },
+                    {
+                      "width": 582,
+                      "height": 722
+                    },
+                    {
+                      "width": 291,
+                      "height": 361
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2289/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval and Modern History; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2289/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2289/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2289",
+                  "height": 5773,
+                  "width": 4654,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4654,
+                      "height": 5773
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2887
+                    },
+                    {
+                      "width": 1164,
+                      "height": 1443
+                    },
+                    {
+                      "width": 582,
+                      "height": 722
+                    },
+                    {
+                      "width": 291,
+                      "height": 361
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2290/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval and Modern History; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2290/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2290/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2290",
+                  "height": 5773,
+                  "width": 4654,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4654,
+                      "height": 5773
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2887
+                    },
+                    {
+                      "width": 1164,
+                      "height": 1443
+                    },
+                    {
+                      "width": 582,
+                      "height": 722
+                    },
+                    {
+                      "width": 291,
+                      "height": 361
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2291/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval and Modern History; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2291/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2291/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2291",
+                  "height": 5773,
+                  "width": 4653,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4653,
+                      "height": 5773
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2887
+                    },
+                    {
+                      "width": 1163,
+                      "height": 1443
+                    },
+                    {
+                      "width": 582,
+                      "height": 722
+                    },
+                    {
+                      "width": 291,
+                      "height": 361
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2292/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval and Modern History; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2292/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2292/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2292",
+                  "height": 5707,
+                  "width": 4751,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4751,
+                      "height": 5707
+                    },
+                    {
+                      "width": 2376,
+                      "height": 2854
+                    },
+                    {
+                      "width": 1188,
+                      "height": 1427
+                    },
+                    {
+                      "width": 594,
+                      "height": 713
+                    },
+                    {
+                      "width": 297,
+                      "height": 357
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2293/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval and Modern History; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2293/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2293/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2293",
+                  "height": 5707,
+                  "width": 4751,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4751,
+                      "height": 5707
+                    },
+                    {
+                      "width": 2376,
+                      "height": 2854
+                    },
+                    {
+                      "width": 1188,
+                      "height": 1427
+                    },
+                    {
+                      "width": 594,
+                      "height": 713
+                    },
+                    {
+                      "width": 297,
+                      "height": 357
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2294/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval and Modern History; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2294/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2294/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2294",
+                  "height": 5708,
+                  "width": 4751,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4751,
+                      "height": 5708
+                    },
+                    {
+                      "width": 2376,
+                      "height": 2854
+                    },
+                    {
+                      "width": 1188,
+                      "height": 1427
+                    },
+                    {
+                      "width": 594,
+                      "height": 714
+                    },
+                    {
+                      "width": 297,
+                      "height": 357
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2295/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval and Modern History; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2295/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2295/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2295",
+                  "height": 5708,
+                  "width": 4653,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4653,
+                      "height": 5708
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2854
+                    },
+                    {
+                      "width": 1163,
+                      "height": 1427
+                    },
+                    {
+                      "width": 582,
+                      "height": 714
+                    },
+                    {
+                      "width": 291,
+                      "height": 357
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2296/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval and Modern History; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2296/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2296/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2296",
+                  "height": 5708,
+                  "width": 4654,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4654,
+                      "height": 5708
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2854
+                    },
+                    {
+                      "width": 1164,
+                      "height": 1427
+                    },
+                    {
+                      "width": 582,
+                      "height": 714
+                    },
+                    {
+                      "width": 291,
+                      "height": 357
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2297/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval and Modern History; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2297/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2297/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2297",
+                  "height": 5707,
+                  "width": 4654,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4654,
+                      "height": 5707
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2854
+                    },
+                    {
+                      "width": 1164,
+                      "height": 1427
+                    },
+                    {
+                      "width": 582,
+                      "height": 713
+                    },
+                    {
+                      "width": 291,
+                      "height": 357
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2298/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval and Modern History; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2298/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2298/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2298",
+                  "height": 5707,
+                  "width": 4654,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4654,
+                      "height": 5707
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2854
+                    },
+                    {
+                      "width": 1164,
+                      "height": 1427
+                    },
+                    {
+                      "width": 582,
+                      "height": 713
+                    },
+                    {
+                      "width": 291,
+                      "height": 357
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2299/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval and Modern History; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2299/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2299/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2299",
+                  "height": 5708,
+                  "width": 4653,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4653,
+                      "height": 5708
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2854
+                    },
+                    {
+                      "width": 1163,
+                      "height": 1427
+                    },
+                    {
+                      "width": 582,
+                      "height": 714
+                    },
+                    {
+                      "width": 291,
+                      "height": 357
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2300/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval and Modern History; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2300/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2300/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2300",
+                  "height": 5708,
+                  "width": 4653,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4653,
+                      "height": 5708
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2854
+                    },
+                    {
+                      "width": 1163,
+                      "height": 1427
+                    },
+                    {
+                      "width": 582,
+                      "height": 714
+                    },
+                    {
+                      "width": 291,
+                      "height": 357
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2301/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval and Modern History; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2301/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2301/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2301",
+                  "height": 5708,
+                  "width": 4654,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4654,
+                      "height": 5708
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2854
+                    },
+                    {
+                      "width": 1164,
+                      "height": 1427
+                    },
+                    {
+                      "width": 582,
+                      "height": 714
+                    },
+                    {
+                      "width": 291,
+                      "height": 357
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2302/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval and Modern History; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2302/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2302/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2302",
+                  "height": 5708,
+                  "width": 4653,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4653,
+                      "height": 5708
+                    },
+                    {
+                      "width": 2327,
+                      "height": 2854
+                    },
+                    {
+                      "width": 1163,
+                      "height": 1427
+                    },
+                    {
+                      "width": 582,
+                      "height": 714
+                    },
+                    {
+                      "width": 291,
+                      "height": 357
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2303/info.json",
+          "@type": "sc:Canvas",
+          "label": "Rear Cover; Standard atlas of Nobles County, Minnesota, 1914",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2303/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2303/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/2303",
+                  "height": 5789,
+                  "width": 5093,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 5093,
+                      "height": 5789
+                    },
+                    {
+                      "width": 2547,
+                      "height": 2895
+                    },
+                    {
+                      "width": 1273,
+                      "height": 1447
+                    },
+                    {
+                      "width": 637,
+                      "height": 724
+                    },
+                    {
+                      "width": 318,
+                      "height": 362
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

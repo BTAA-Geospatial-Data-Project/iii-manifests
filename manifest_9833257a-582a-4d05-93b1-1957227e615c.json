@@ -1,0 +1,4833 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/BTAA-Geospatial-Data-Project/iiif-manifests/master/manifest_9833257a-582a-4d05-93b1-1957227e615c.json",
+  "@type": "sc:Manifest",
+  "label": "Parent Record: Standard Atlas of Clay County, 1909",
+  "metadata": [
+    {
+      "label": "Description",
+      "value": "Standard atlas of Clay County, Minnesota, including a plat book of the villages, cities and townships of the county / compiled and published by Alden Publishing Co. Chicago. The Company, 1909. "
+    },
+    {
+      "label": "Creator",
+      "value": "Alden Publishing Co."
+    }
+  ],
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/972/info.json",
+          "@type": "sc:Canvas",
+          "label": "Front Cover; Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/972/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/972/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/972",
+                  "height": 7907,
+                  "width": 7065,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 7065,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3533,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1766,
+                      "height": 1977
+                    },
+                    {
+                      "width": 883,
+                      "height": 988
+                    },
+                    {
+                      "width": 442,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/973/info.json",
+          "@type": "sc:Canvas",
+          "label": "Title Page.; Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/973/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/973/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/973",
+                  "height": 7907,
+                  "width": 7065,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 7065,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3533,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1766,
+                      "height": 1977
+                    },
+                    {
+                      "width": 883,
+                      "height": 988
+                    },
+                    {
+                      "width": 442,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/974/info.json",
+          "@type": "sc:Canvas",
+          "label": "Table of Contents.; Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/974/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/974/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/974",
+                  "height": 7907,
+                  "width": 7065,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 7065,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3533,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1766,
+                      "height": 1977
+                    },
+                    {
+                      "width": 883,
+                      "height": 988
+                    },
+                    {
+                      "width": 442,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/975/info.json",
+          "@type": "sc:Canvas",
+          "label": "Index to Illustrations.; Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/975/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/975/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/975",
+                  "height": 7907,
+                  "width": 6352,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6352,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3176,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1588,
+                      "height": 1977
+                    },
+                    {
+                      "width": 794,
+                      "height": 988
+                    },
+                    {
+                      "width": 397,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/976/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Clay County.; Page 7: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/976/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/976/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/976",
+                  "height": 7908,
+                  "width": 6352,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6352,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3176,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1588,
+                      "height": 1977
+                    },
+                    {
+                      "width": 794,
+                      "height": 989
+                    },
+                    {
+                      "width": 397,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/977/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Moorhead (north).; Pages 10 & 11: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/977/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/977/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/977",
+                  "height": 7908,
+                  "width": 12794,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 12794,
+                      "height": 7908
+                    },
+                    {
+                      "width": 6397,
+                      "height": 3954
+                    },
+                    {
+                      "width": 3199,
+                      "height": 1977
+                    },
+                    {
+                      "width": 1599,
+                      "height": 989
+                    },
+                    {
+                      "width": 800,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/978/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Moorhead (south).; Pages 14 & 15: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/978/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/978/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/978",
+                  "height": 7908,
+                  "width": 12794,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 12794,
+                      "height": 7908
+                    },
+                    {
+                      "width": 6397,
+                      "height": 3954
+                    },
+                    {
+                      "width": 3199,
+                      "height": 1977
+                    },
+                    {
+                      "width": 1599,
+                      "height": 989
+                    },
+                    {
+                      "width": 800,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/979/info.json",
+          "@type": "sc:Canvas",
+          "label": "Maps of Dilworth, Sabin, & Felton.; Pages 18 & 19: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/979/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/979/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/979",
+                  "height": 7908,
+                  "width": 12794,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 12794,
+                      "height": 7908
+                    },
+                    {
+                      "width": 6397,
+                      "height": 3954
+                    },
+                    {
+                      "width": 3199,
+                      "height": 1977
+                    },
+                    {
+                      "width": 1599,
+                      "height": 989
+                    },
+                    {
+                      "width": 800,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/980/info.json",
+          "@type": "sc:Canvas",
+          "label": "Maps of Barnesville, Glyndon, & Hitterdal.; Pages 22 & 23: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/980/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/980/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/980",
+                  "height": 7908,
+                  "width": 12794,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 12794,
+                      "height": 7908
+                    },
+                    {
+                      "width": 6397,
+                      "height": 3954
+                    },
+                    {
+                      "width": 3199,
+                      "height": 1977
+                    },
+                    {
+                      "width": 1599,
+                      "height": 989
+                    },
+                    {
+                      "width": 800,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/981/info.json",
+          "@type": "sc:Canvas",
+          "label": "Maps of Hawley, Ulen, Baker, Kurtz, Comstock, Kragnes, & Averill.; Pages 26 & 27: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/981/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/981/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/981",
+                  "height": 7908,
+                  "width": 12794,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 12794,
+                      "height": 7908
+                    },
+                    {
+                      "width": 6397,
+                      "height": 3954
+                    },
+                    {
+                      "width": 3199,
+                      "height": 1977
+                    },
+                    {
+                      "width": 1599,
+                      "height": 989
+                    },
+                    {
+                      "width": 800,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/982/info.json",
+          "@type": "sc:Canvas",
+          "label": "Maps of Winnipeg Junction, Downer, & Georgetown.; Page 29: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/982/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/982/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/982",
+                  "height": 7908,
+                  "width": 6575,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6575,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/983/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Holy Cross Township: Township 137 N; Range 48 W of the 5th PM.; Page 31: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/983/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/983/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/983",
+                  "height": 7908,
+                  "width": 6575,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6575,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/984/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Alliance Township: Township 137 N; Range 47 W of the 5th PM.; Page 33: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/984/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/984/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/984",
+                  "height": 7908,
+                  "width": 6575,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6575,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/985/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Barnesville Township: Township 137 N; Range 46 W of the 5th PM.; Page 35: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/985/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/985/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/985",
+                  "height": 7908,
+                  "width": 6575,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6575,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/986/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Humboldt Township: Township 137 N; Range 45 W of the 5th PM.; Page 37: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/986/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/986/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/986",
+                  "height": 7908,
+                  "width": 6576,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6576,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/987/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Tansem Township: Township 137 N; Range 44 W of the 5th PM.; Page 39: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/987/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/987/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/987",
+                  "height": 7908,
+                  "width": 6576,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6576,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/988/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Kurtz Township: Township 138 N; Range 48 & 49 W of the 5th PM.; Page 41: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/988/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/988/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/988",
+                  "height": 7908,
+                  "width": 6576,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6576,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/989/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Elmwood Township: Township 138 N; Range 47 W of the 5th PM.; Page 43: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/989/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/989/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/989",
+                  "height": 7908,
+                  "width": 6576,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6576,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/990/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Elkton Township: Township 138 N; Range 46 W of the 5th PM.; Page 45: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/990/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/990/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/990",
+                  "height": 7908,
+                  "width": 6576,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6576,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/991/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Skree Township: Township 138 N; Range 45 W of the 5th PM.; Page 47: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/991/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/991/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/991",
+                  "height": 7908,
+                  "width": 6576,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6576,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/992/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Parke Township: Township 138 N; Range 44 W of the 5th PM.; Page 49: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/992/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/992/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/992",
+                  "height": 7908,
+                  "width": 6576,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6576,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/993/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Moorhead Township: Township 139 N; Range 48 & 49 W of the 5th PM.; Page 51: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/993/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/993/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/993",
+                  "height": 7908,
+                  "width": 6576,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6576,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/994/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Glyndon Township: Township 139 N; Range 47 W of the 5th PM.; Page 53: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/994/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/994/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/994",
+                  "height": 7908,
+                  "width": 6576,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6576,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/995/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Riverton Township: Township 139 N; Range 46 W of the 5th PM.; Page 55: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/995/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/995/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/995",
+                  "height": 7908,
+                  "width": 6576,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6576,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/996/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Hawley Township: Township 139 N; Range 45 W of the 5th PM.; Page 57: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/996/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/996/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/996",
+                  "height": 7908,
+                  "width": 6576,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6576,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/997/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Eglon Township: Township 139 N; Range 44 W of the 5th PM.; Page 59: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/997/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/997/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/997",
+                  "height": 7908,
+                  "width": 6576,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6576,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/998/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Oakport Township: Township 140 N; Range 48 & 49 W of the 5th PM.; Page 61: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/998/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/998/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/998",
+                  "height": 7908,
+                  "width": 6576,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6576,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/999/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Moland Township: Township 140 N; Range 47 W of the 5th PM.; Page 63: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/999/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/999/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/999",
+                  "height": 7908,
+                  "width": 6576,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6576,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1000/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Spring Prairie Township: Township 140 N; Range 46 W of the 5th PM.; Page 65: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1000/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1000/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1000",
+                  "height": 7908,
+                  "width": 6575,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6575,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1001/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Cromwell Township: Township 140 N; Range 45 W of the 5th PM.; Page 67: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1001/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1001/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1001",
+                  "height": 7908,
+                  "width": 6575,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6575,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1002/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Highland Grove Township: Township 140 N; Range 44 W of the 5th PM.; Page 69: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1002/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1002/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1002",
+                  "height": 7908,
+                  "width": 6575,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6575,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1003/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Kragnes Township: Township 141 N; Range 48 & 49 W of the 5th PM.; Page 71: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1003/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1003/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1003",
+                  "height": 7908,
+                  "width": 6575,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6575,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1004/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Morken Township: Township 141 N; Range 47 W of the 5th PM.; Page 73: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1004/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1004/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1004",
+                  "height": 7908,
+                  "width": 6575,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6575,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1005/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Flowing Township: Township 141 N; Range 46 W of the 5th PM.; Page 75: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1005/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1005/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1005",
+                  "height": 7908,
+                  "width": 6575,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6575,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1006/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Keene Township: Township 141 N; Range 45 W of the 5th PM.; Page 77: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1006/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1006/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1006",
+                  "height": 7908,
+                  "width": 6575,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6575,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1007/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Goose Prarie Township: Township 141 N; Range 44 W of the 5th PM.; Page 79: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1007/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1007/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1007",
+                  "height": 7908,
+                  "width": 6575,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6575,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1008/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Georgetown Township: Township 142 N; Range 48 & 49 W of the 5th PM.; Page 81: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1008/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1008/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1008",
+                  "height": 7908,
+                  "width": 6575,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6575,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1009/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Viding Township: Township 142 N; Range 47 W of the 5th PM.; Page 83: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1009/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1009/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1009",
+                  "height": 7908,
+                  "width": 6575,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6575,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1010/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Felton Township: Township 142 N; Range 46 W of the 5th PM.; Page 85: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1010/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1010/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1010",
+                  "height": 7908,
+                  "width": 6575,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6575,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1011/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Hagen Township: Township 142 N; Range 45 W of the 5th PM.; Page 87: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1011/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1011/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1011",
+                  "height": 7908,
+                  "width": 6575,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6575,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1012/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of Ulen Township: Township 142 N; Range 44 W of the 5th PM.; Page 89: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1012/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1012/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1012",
+                  "height": 7908,
+                  "width": 6575,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6575,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3288,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1644,
+                      "height": 1977
+                    },
+                    {
+                      "width": 822,
+                      "height": 989
+                    },
+                    {
+                      "width": 411,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1013/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of the Minnesota.; Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1013/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1013/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1013",
+                  "height": 7908,
+                  "width": 12570,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 12570,
+                      "height": 7908
+                    },
+                    {
+                      "width": 6285,
+                      "height": 3954
+                    },
+                    {
+                      "width": 3143,
+                      "height": 1977
+                    },
+                    {
+                      "width": 1571,
+                      "height": 989
+                    },
+                    {
+                      "width": 786,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1014/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of the United States.; Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1014/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1014/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1014",
+                  "height": 7908,
+                  "width": 12570,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 12570,
+                      "height": 7908
+                    },
+                    {
+                      "width": 6285,
+                      "height": 3954
+                    },
+                    {
+                      "width": 3143,
+                      "height": 1977
+                    },
+                    {
+                      "width": 1571,
+                      "height": 989
+                    },
+                    {
+                      "width": 786,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1015/info.json",
+          "@type": "sc:Canvas",
+          "label": "Map of the the World.; Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1015/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1015/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1015",
+                  "height": 7908,
+                  "width": 12570,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 12570,
+                      "height": 7908
+                    },
+                    {
+                      "width": 6285,
+                      "height": 3954
+                    },
+                    {
+                      "width": 3143,
+                      "height": 1977
+                    },
+                    {
+                      "width": 1571,
+                      "height": 989
+                    },
+                    {
+                      "width": 786,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1016/info.json",
+          "@type": "sc:Canvas",
+          "label": "Patron's Reference Directory.; Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1016/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1016/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1016",
+                  "height": 7908,
+                  "width": 6664,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6664,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3332,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1666,
+                      "height": 1977
+                    },
+                    {
+                      "width": 833,
+                      "height": 989
+                    },
+                    {
+                      "width": 417,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1017/info.json",
+          "@type": "sc:Canvas",
+          "label": "Patron's Reference Directory.; Page 104: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1017/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1017/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1017",
+                  "height": 7908,
+                  "width": 6352,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6352,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3176,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1588,
+                      "height": 1977
+                    },
+                    {
+                      "width": 794,
+                      "height": 989
+                    },
+                    {
+                      "width": 397,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1018/info.json",
+          "@type": "sc:Canvas",
+          "label": "Illustrations.; Page 105: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1018/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1018/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1018",
+                  "height": 7907,
+                  "width": 6352,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6352,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3176,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1588,
+                      "height": 1977
+                    },
+                    {
+                      "width": 794,
+                      "height": 988
+                    },
+                    {
+                      "width": 397,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1019/info.json",
+          "@type": "sc:Canvas",
+          "label": "Illustrations.; Page 107: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1019/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1019/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1019",
+                  "height": 7907,
+                  "width": 6352,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6352,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3176,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1588,
+                      "height": 1977
+                    },
+                    {
+                      "width": 794,
+                      "height": 988
+                    },
+                    {
+                      "width": 397,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1020/info.json",
+          "@type": "sc:Canvas",
+          "label": "Illustrations.; Page 109: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1020/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1020/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1020",
+                  "height": 7907,
+                  "width": 6352,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6352,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3176,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1588,
+                      "height": 1977
+                    },
+                    {
+                      "width": 794,
+                      "height": 988
+                    },
+                    {
+                      "width": 397,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1021/info.json",
+          "@type": "sc:Canvas",
+          "label": "Illustrations.; Page 111: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1021/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1021/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1021",
+                  "height": 7907,
+                  "width": 6352,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6352,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3176,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1588,
+                      "height": 1977
+                    },
+                    {
+                      "width": 794,
+                      "height": 988
+                    },
+                    {
+                      "width": 397,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1022/info.json",
+          "@type": "sc:Canvas",
+          "label": "Illustrations.; Page 113: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1022/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1022/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1022",
+                  "height": 7907,
+                  "width": 6352,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6352,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3176,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1588,
+                      "height": 1977
+                    },
+                    {
+                      "width": 794,
+                      "height": 988
+                    },
+                    {
+                      "width": 397,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1023/info.json",
+          "@type": "sc:Canvas",
+          "label": "Illustrations.; Page 115: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1023/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1023/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1023",
+                  "height": 7907,
+                  "width": 6352,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6352,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3176,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1588,
+                      "height": 1977
+                    },
+                    {
+                      "width": 794,
+                      "height": 988
+                    },
+                    {
+                      "width": 397,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1024/info.json",
+          "@type": "sc:Canvas",
+          "label": "United States Land Survey; Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1024/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1024/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1024",
+                  "height": 7907,
+                  "width": 6352,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6352,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3176,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1588,
+                      "height": 1977
+                    },
+                    {
+                      "width": 794,
+                      "height": 988
+                    },
+                    {
+                      "width": 397,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1025/info.json",
+          "@type": "sc:Canvas",
+          "label": "Public Land Survey.; Supplement: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1025/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1025/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1025",
+                  "height": 7907,
+                  "width": 6352,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6352,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3176,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1588,
+                      "height": 1977
+                    },
+                    {
+                      "width": 794,
+                      "height": 988
+                    },
+                    {
+                      "width": 397,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1026/info.json",
+          "@type": "sc:Canvas",
+          "label": "Digest of the System of Civil Government; Supplement: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1026/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1026/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1026",
+                  "height": 7907,
+                  "width": 6352,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6352,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3176,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1588,
+                      "height": 1977
+                    },
+                    {
+                      "width": 794,
+                      "height": 988
+                    },
+                    {
+                      "width": 397,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1027/info.json",
+          "@type": "sc:Canvas",
+          "label": "Digest of the System of Civil Government; Supplement: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1027/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1027/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1027",
+                  "height": 8019,
+                  "width": 6709,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6709,
+                      "height": 8019
+                    },
+                    {
+                      "width": 3355,
+                      "height": 4010
+                    },
+                    {
+                      "width": 1677,
+                      "height": 2005
+                    },
+                    {
+                      "width": 839,
+                      "height": 1002
+                    },
+                    {
+                      "width": 419,
+                      "height": 501
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1028/info.json",
+          "@type": "sc:Canvas",
+          "label": "Digest of the System of Civil Government; Supplement: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1028/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1028/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1028",
+                  "height": 7908,
+                  "width": 6686,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6686,
+                      "height": 7908
+                    },
+                    {
+                      "width": 3343,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1672,
+                      "height": 1977
+                    },
+                    {
+                      "width": 836,
+                      "height": 989
+                    },
+                    {
+                      "width": 418,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1029/info.json",
+          "@type": "sc:Canvas",
+          "label": "Digest of the System of Civil Government; Supplement: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1029/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1029/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1029",
+                  "height": 7907,
+                  "width": 6687,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6687,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3344,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1672,
+                      "height": 1977
+                    },
+                    {
+                      "width": 836,
+                      "height": 988
+                    },
+                    {
+                      "width": 418,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1030/info.json",
+          "@type": "sc:Canvas",
+          "label": "General Information on Banking and Business Methods; Supplement: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1030/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1030/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1030",
+                  "height": 7907,
+                  "width": 6686,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6686,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3343,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1672,
+                      "height": 1977
+                    },
+                    {
+                      "width": 836,
+                      "height": 988
+                    },
+                    {
+                      "width": 418,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1031/info.json",
+          "@type": "sc:Canvas",
+          "label": "General Information on Banking and Business Methods; Supplement: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1031/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1031/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1031",
+                  "height": 7907,
+                  "width": 6686,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6686,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3343,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1672,
+                      "height": 1977
+                    },
+                    {
+                      "width": 836,
+                      "height": 988
+                    },
+                    {
+                      "width": 418,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1032/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval, and Modern History; Supplement: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1032/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1032/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1032",
+                  "height": 7907,
+                  "width": 6687,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6687,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3344,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1672,
+                      "height": 1977
+                    },
+                    {
+                      "width": 836,
+                      "height": 988
+                    },
+                    {
+                      "width": 418,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1033/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval, and Modern History; Supplement: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1033/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1033/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1033",
+                  "height": 7907,
+                  "width": 6686,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6686,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3343,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1672,
+                      "height": 1977
+                    },
+                    {
+                      "width": 836,
+                      "height": 988
+                    },
+                    {
+                      "width": 418,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1034/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval, and Modern History; Supplement: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1034/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1034/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1034",
+                  "height": 7907,
+                  "width": 6619,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6619,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3310,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1655,
+                      "height": 1977
+                    },
+                    {
+                      "width": 827,
+                      "height": 988
+                    },
+                    {
+                      "width": 414,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1035/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval, and Modern History; Supplement: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1035/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1035/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1035",
+                  "height": 7907,
+                  "width": 6619,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6619,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3310,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1655,
+                      "height": 1977
+                    },
+                    {
+                      "width": 827,
+                      "height": 988
+                    },
+                    {
+                      "width": 414,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1036/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval, and Modern History; Supplement: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1036/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1036/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1036",
+                  "height": 7907,
+                  "width": 6620,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6620,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3310,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1655,
+                      "height": 1977
+                    },
+                    {
+                      "width": 828,
+                      "height": 988
+                    },
+                    {
+                      "width": 414,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1037/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval, and Modern History; Supplement: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1037/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1037/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1037",
+                  "height": 7907,
+                  "width": 6620,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6620,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3310,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1655,
+                      "height": 1977
+                    },
+                    {
+                      "width": 828,
+                      "height": 988
+                    },
+                    {
+                      "width": 414,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1038/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval, and Modern History; Supplement: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1038/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1038/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1038",
+                  "height": 7907,
+                  "width": 6620,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6620,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3310,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1655,
+                      "height": 1977
+                    },
+                    {
+                      "width": 828,
+                      "height": 988
+                    },
+                    {
+                      "width": 414,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1039/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval, and Modern History; Supplement: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1039/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1039/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1039",
+                  "height": 7907,
+                  "width": 6620,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6620,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3310,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1655,
+                      "height": 1977
+                    },
+                    {
+                      "width": 828,
+                      "height": 988
+                    },
+                    {
+                      "width": 414,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1040/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval, and Modern History; Supplement: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1040/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1040/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1040",
+                  "height": 7907,
+                  "width": 6620,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6620,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3310,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1655,
+                      "height": 1977
+                    },
+                    {
+                      "width": 828,
+                      "height": 988
+                    },
+                    {
+                      "width": 414,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1041/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval, and Modern History; Supplement: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1041/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1041/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1041",
+                  "height": 7907,
+                  "width": 6619,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6619,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3310,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1655,
+                      "height": 1977
+                    },
+                    {
+                      "width": 827,
+                      "height": 988
+                    },
+                    {
+                      "width": 414,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1042/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval, and Modern History; Supplement: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1042/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1042/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1042",
+                  "height": 7907,
+                  "width": 6620,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6620,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3310,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1655,
+                      "height": 1977
+                    },
+                    {
+                      "width": 828,
+                      "height": 988
+                    },
+                    {
+                      "width": 414,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1043/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval, and Modern History; Supplement: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1043/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1043/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1043",
+                  "height": 7907,
+                  "width": 6619,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6619,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3310,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1655,
+                      "height": 1977
+                    },
+                    {
+                      "width": 827,
+                      "height": 988
+                    },
+                    {
+                      "width": 414,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1044/info.json",
+          "@type": "sc:Canvas",
+          "label": "Ancient, Medieval, and Modern History; Supplement: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1044/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1044/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1044",
+                  "height": 7907,
+                  "width": 6619,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 6619,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3310,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1655,
+                      "height": 1977
+                    },
+                    {
+                      "width": 827,
+                      "height": 988
+                    },
+                    {
+                      "width": 414,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1045/info.json",
+          "@type": "sc:Canvas",
+          "label": "Rear Cover.; Supplement: Standard Atlas of Clay County, 1909",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1045/info.json",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1045/info.json",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll231/1045",
+                  "height": 7907,
+                  "width": 7133,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 7133,
+                      "height": 7907
+                    },
+                    {
+                      "width": 3567,
+                      "height": 3954
+                    },
+                    {
+                      "width": 1783,
+                      "height": 1977
+                    },
+                    {
+                      "width": 892,
+                      "height": 988
+                    },
+                    {
+                      "width": 446,
+                      "height": 494
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
