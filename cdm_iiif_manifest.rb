@@ -9,8 +9,13 @@ end
 require 'open-uri'
 require 'iiif/presentation'
 
-# UMedia example item: Standard atlas of Kittson county
-url = "https://umedia.lib.umn.edu/item/p16022coll231:2045.json"
+
+require 'bundler/inline'
+
+
+# UMedia example item: Indian Atlas
+url = "https://umedia.lib.umn.edu/item/p16022coll246:72.json"
+
 data = JSON.parse(open(url).read)
 
 # Example uses ngrok to tunnel local Rails app' public dir
@@ -18,7 +23,7 @@ data = JSON.parse(open(url).read)
 # See also: https://github.com/cyu/rack-cors
 seed = {
   "@context" => "http://iiif.io/api/presentation/2/context.json",
-  "@id" => 'http://7560ef37.ngrok.io/iiif_manifest.json',
+  "@id" => 'https://raw.githubusercontent.com/BTAA-Geospatial-Data-Project/iiif-manifests/master/manifest_228fdc30-6f23-4481-a409-66321656e805.json',
   "@type" => "sc:Manifest",
   "label" => data["title"],
   "metadata" => [
