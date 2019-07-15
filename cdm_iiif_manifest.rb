@@ -14,7 +14,7 @@ require 'bundler/inline'
 
 
 # UMedia example item: Indian Atlas
-url = "https://umedia.lib.umn.edu/item/p16022coll246:72.json"
+url = "https://umedia.lib.umn.edu/item/p16022coll246:109.json"
 
 data = JSON.parse(open(url).read)
 
@@ -23,7 +23,7 @@ data = JSON.parse(open(url).read)
 # See also: https://github.com/cyu/rack-cors
 seed = {
   "@context" => "http://iiif.io/api/presentation/2/context.json",
-  "@id" => 'https://raw.githubusercontent.com/BTAA-Geospatial-Data-Project/iiif-manifests/master/manifest_228fdc30-6f23-4481-a409-66321656e805.json',
+  "@id" => 'https://raw.githubusercontent.com/BTAA-Geospatial-Data-Project/iiif-manifests/master/manifest_f72ce802-b12b-456b-b1c0-110ed2a0213f.json',
   "@type" => "sc:Manifest",
   "label" => data["title"],
   "metadata" => [
@@ -83,6 +83,6 @@ data['children'].each do |child|
 end
 
 # Write manifest file
-File.open("manifest.json","w") do |f|
+File.open("manifest_f72ce802-b12b-456b-b1c0-110ed2a0213f.json","w") do |f|
   f.write(manifest.to_json(pretty: true))
 end
