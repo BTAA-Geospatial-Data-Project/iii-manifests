@@ -1,0 +1,153 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/BTAA-Geospatial-Data-Project/iiif-manifests/master/manifest_e1ec54e6-8bb4-496a-93f9-43ac901bea74.json",
+  "@type": "sc:Manifest",
+  "label": "Map of the Island of Bombay : index to progress",
+  "metadata": [
+    {
+      "label": "format",
+      "value": "Maps | http://vocab.getty.edu/aat/300028094"
+    },
+    {
+      "label": "subject",
+      "value": "Plague India Mumbai Maps, public Health India Mumbai Maps, mumbai (India) Maps, maps"
+    }
+  ],
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll246/id/73",
+          "@type": "sc:Canvas",
+          "label": "Page 1",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll246/id/73",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll246/id/73",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/73",
+                  "height": 8397,
+                  "width": 9252,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9252,
+                      "height": 8397
+                    },
+                    {
+                      "width": 4626,
+                      "height": 4199
+                    },
+                    {
+                      "width": 2313,
+                      "height": 2099
+                    },
+                    {
+                      "width": 1157,
+                      "height": 1050
+                    },
+                    {
+                      "width": 578,
+                      "height": 525
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll246/id/74",
+          "@type": "sc:Canvas",
+          "label": "Page 2",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll246/id/74",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll246/id/74",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/74",
+                  "height": 8379,
+                  "width": 9266,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9266,
+                      "height": 8379
+                    },
+                    {
+                      "width": 4633,
+                      "height": 4190
+                    },
+                    {
+                      "width": 2317,
+                      "height": 2095
+                    },
+                    {
+                      "width": 1158,
+                      "height": 1047
+                    },
+                    {
+                      "width": 579,
+                      "height": 524
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

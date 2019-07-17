@@ -1,0 +1,153 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/BTAA-Geospatial-Data-Project/iiif-manifests/master/manifest_5ebaf889-90a4-4354-b7c3-cec6e76852b1.json",
+  "@type": "sc:Manifest",
+  "label": "The cantonments, civil station and environs of Cawnpoor : 1852-3-4",
+  "metadata": [
+    {
+      "label": "format",
+      "value": "Maps | http://vocab.getty.edu/aat/300028094"
+    },
+    {
+      "label": "subject",
+      "value": "Kaānpur (India) Maps, maps"
+    }
+  ],
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll246/id/94",
+          "@type": "sc:Canvas",
+          "label": "Page 1",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll246/id/94",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll246/id/94",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/94",
+                  "height": 8222,
+                  "width": 10510,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 10510,
+                      "height": 8222
+                    },
+                    {
+                      "width": 5255,
+                      "height": 4111
+                    },
+                    {
+                      "width": 2628,
+                      "height": 2056
+                    },
+                    {
+                      "width": 1314,
+                      "height": 1028
+                    },
+                    {
+                      "width": 657,
+                      "height": 514
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll246/id/95",
+          "@type": "sc:Canvas",
+          "label": "Page 2",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll246/id/95",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll246/id/95",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll246/95",
+                  "height": 8188,
+                  "width": 10413,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 10413,
+                      "height": 8188
+                    },
+                    {
+                      "width": 5207,
+                      "height": 4094
+                    },
+                    {
+                      "width": 2603,
+                      "height": 2047
+                    },
+                    {
+                      "width": 1302,
+                      "height": 1024
+                    },
+                    {
+                      "width": 651,
+                      "height": 512
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
