@@ -1,0 +1,2493 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/BTAA-Geospatial-Data-Project/iiif-manifests/master/manifest_5fc4e35a-8b19-4685-9170-521a62b0a6d2.json",
+  "@type": "sc:Manifest",
+  "label": "Atlas of the city of New York : from official records, private plans and actual surveys, volume 3",
+  "metadata": [
+    {
+      "label": "format",
+      "value": "Atlases | http://vocab.getty.edu/aat/300028053"
+    },
+    {
+      "label": "subject",
+      "value": "Real Property New York (State) New York Maps, New York (n.y.) Maps"
+    }
+  ],
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/29",
+          "@type": "sc:Canvas",
+          "label": "Page 1",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/29",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/29",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/29",
+                  "height": 5951,
+                  "width": 4398,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 4398,
+                      "height": 5951
+                    },
+                    {
+                      "width": 2199,
+                      "height": 2976
+                    },
+                    {
+                      "width": 1100,
+                      "height": 1488
+                    },
+                    {
+                      "width": 550,
+                      "height": 744
+                    },
+                    {
+                      "width": 275,
+                      "height": 372
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/30",
+          "@type": "sc:Canvas",
+          "label": "Page 2",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/30",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/30",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/30",
+                  "height": 6576,
+                  "width": 9988,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9988,
+                      "height": 6576
+                    },
+                    {
+                      "width": 4994,
+                      "height": 3288
+                    },
+                    {
+                      "width": 2497,
+                      "height": 1644
+                    },
+                    {
+                      "width": 1249,
+                      "height": 822
+                    },
+                    {
+                      "width": 624,
+                      "height": 411
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/31",
+          "@type": "sc:Canvas",
+          "label": "Page 3",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/31",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/31",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/31",
+                  "height": 6516,
+                  "width": 10119,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 10119,
+                      "height": 6516
+                    },
+                    {
+                      "width": 5060,
+                      "height": 3258
+                    },
+                    {
+                      "width": 2530,
+                      "height": 1629
+                    },
+                    {
+                      "width": 1265,
+                      "height": 815
+                    },
+                    {
+                      "width": 632,
+                      "height": 407
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/32",
+          "@type": "sc:Canvas",
+          "label": "Page 4",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/32",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/32",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/32",
+                  "height": 6627,
+                  "width": 10013,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 10013,
+                      "height": 6627
+                    },
+                    {
+                      "width": 5007,
+                      "height": 3314
+                    },
+                    {
+                      "width": 2503,
+                      "height": 1657
+                    },
+                    {
+                      "width": 1252,
+                      "height": 828
+                    },
+                    {
+                      "width": 626,
+                      "height": 414
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/33",
+          "@type": "sc:Canvas",
+          "label": "Page 5",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/33",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/33",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/33",
+                  "height": 6697,
+                  "width": 9676,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9676,
+                      "height": 6697
+                    },
+                    {
+                      "width": 4838,
+                      "height": 3349
+                    },
+                    {
+                      "width": 2419,
+                      "height": 1674
+                    },
+                    {
+                      "width": 1210,
+                      "height": 837
+                    },
+                    {
+                      "width": 605,
+                      "height": 419
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/34",
+          "@type": "sc:Canvas",
+          "label": "Page 6",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/34",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/34",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/34",
+                  "height": 6625,
+                  "width": 9504,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9504,
+                      "height": 6625
+                    },
+                    {
+                      "width": 4752,
+                      "height": 3313
+                    },
+                    {
+                      "width": 2376,
+                      "height": 1656
+                    },
+                    {
+                      "width": 1188,
+                      "height": 828
+                    },
+                    {
+                      "width": 594,
+                      "height": 414
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/35",
+          "@type": "sc:Canvas",
+          "label": "Page 7",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/35",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/35",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/35",
+                  "height": 6835,
+                  "width": 9753,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9753,
+                      "height": 6835
+                    },
+                    {
+                      "width": 4877,
+                      "height": 3418
+                    },
+                    {
+                      "width": 2438,
+                      "height": 1709
+                    },
+                    {
+                      "width": 1219,
+                      "height": 854
+                    },
+                    {
+                      "width": 610,
+                      "height": 427
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/36",
+          "@type": "sc:Canvas",
+          "label": "Page 8",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/36",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/36",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/36",
+                  "height": 6769,
+                  "width": 9441,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9441,
+                      "height": 6769
+                    },
+                    {
+                      "width": 4721,
+                      "height": 3385
+                    },
+                    {
+                      "width": 2360,
+                      "height": 1692
+                    },
+                    {
+                      "width": 1180,
+                      "height": 846
+                    },
+                    {
+                      "width": 590,
+                      "height": 423
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/37",
+          "@type": "sc:Canvas",
+          "label": "Page 9",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/37",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/37",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/37",
+                  "height": 6783,
+                  "width": 9497,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9497,
+                      "height": 6783
+                    },
+                    {
+                      "width": 4749,
+                      "height": 3392
+                    },
+                    {
+                      "width": 2374,
+                      "height": 1696
+                    },
+                    {
+                      "width": 1187,
+                      "height": 848
+                    },
+                    {
+                      "width": 594,
+                      "height": 424
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/38",
+          "@type": "sc:Canvas",
+          "label": "Page 10",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/38",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/38",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/38",
+                  "height": 6681,
+                  "width": 9425,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9425,
+                      "height": 6681
+                    },
+                    {
+                      "width": 4713,
+                      "height": 3341
+                    },
+                    {
+                      "width": 2356,
+                      "height": 1670
+                    },
+                    {
+                      "width": 1178,
+                      "height": 835
+                    },
+                    {
+                      "width": 589,
+                      "height": 418
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/39",
+          "@type": "sc:Canvas",
+          "label": "Page 11",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/39",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/39",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/39",
+                  "height": 6716,
+                  "width": 9282,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9282,
+                      "height": 6716
+                    },
+                    {
+                      "width": 4641,
+                      "height": 3358
+                    },
+                    {
+                      "width": 2321,
+                      "height": 1679
+                    },
+                    {
+                      "width": 1160,
+                      "height": 840
+                    },
+                    {
+                      "width": 580,
+                      "height": 420
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/40",
+          "@type": "sc:Canvas",
+          "label": "Page 12",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/40",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/40",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/40",
+                  "height": 6659,
+                  "width": 9560,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9560,
+                      "height": 6659
+                    },
+                    {
+                      "width": 4780,
+                      "height": 3330
+                    },
+                    {
+                      "width": 2390,
+                      "height": 1665
+                    },
+                    {
+                      "width": 1195,
+                      "height": 832
+                    },
+                    {
+                      "width": 598,
+                      "height": 416
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/41",
+          "@type": "sc:Canvas",
+          "label": "Page 13",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/41",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/41",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/41",
+                  "height": 6743,
+                  "width": 9656,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9656,
+                      "height": 6743
+                    },
+                    {
+                      "width": 4828,
+                      "height": 3372
+                    },
+                    {
+                      "width": 2414,
+                      "height": 1686
+                    },
+                    {
+                      "width": 1207,
+                      "height": 843
+                    },
+                    {
+                      "width": 604,
+                      "height": 421
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/42",
+          "@type": "sc:Canvas",
+          "label": "Page 14",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/42",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/42",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/42",
+                  "height": 6801,
+                  "width": 9612,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9612,
+                      "height": 6801
+                    },
+                    {
+                      "width": 4806,
+                      "height": 3401
+                    },
+                    {
+                      "width": 2403,
+                      "height": 1700
+                    },
+                    {
+                      "width": 1202,
+                      "height": 850
+                    },
+                    {
+                      "width": 601,
+                      "height": 425
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/43",
+          "@type": "sc:Canvas",
+          "label": "Page 15",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/43",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/43",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/43",
+                  "height": 6753,
+                  "width": 9624,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9624,
+                      "height": 6753
+                    },
+                    {
+                      "width": 4812,
+                      "height": 3377
+                    },
+                    {
+                      "width": 2406,
+                      "height": 1688
+                    },
+                    {
+                      "width": 1203,
+                      "height": 844
+                    },
+                    {
+                      "width": 602,
+                      "height": 422
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/44",
+          "@type": "sc:Canvas",
+          "label": "Page 16",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/44",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/44",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/44",
+                  "height": 6777,
+                  "width": 9670,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9670,
+                      "height": 6777
+                    },
+                    {
+                      "width": 4835,
+                      "height": 3389
+                    },
+                    {
+                      "width": 2418,
+                      "height": 1694
+                    },
+                    {
+                      "width": 1209,
+                      "height": 847
+                    },
+                    {
+                      "width": 604,
+                      "height": 424
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/45",
+          "@type": "sc:Canvas",
+          "label": "Page 17",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/45",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/45",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/45",
+                  "height": 6870,
+                  "width": 9282,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9282,
+                      "height": 6870
+                    },
+                    {
+                      "width": 4641,
+                      "height": 3435
+                    },
+                    {
+                      "width": 2321,
+                      "height": 1718
+                    },
+                    {
+                      "width": 1160,
+                      "height": 859
+                    },
+                    {
+                      "width": 580,
+                      "height": 429
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/46",
+          "@type": "sc:Canvas",
+          "label": "Page 18",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/46",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/46",
+                  "height": 6815,
+                  "width": 9476,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9476,
+                      "height": 6815
+                    },
+                    {
+                      "width": 4738,
+                      "height": 3408
+                    },
+                    {
+                      "width": 2369,
+                      "height": 1704
+                    },
+                    {
+                      "width": 1185,
+                      "height": 852
+                    },
+                    {
+                      "width": 592,
+                      "height": 426
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/47",
+          "@type": "sc:Canvas",
+          "label": "Page 19",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/47",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/47",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/47",
+                  "height": 6792,
+                  "width": 9672,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9672,
+                      "height": 6792
+                    },
+                    {
+                      "width": 4836,
+                      "height": 3396
+                    },
+                    {
+                      "width": 2418,
+                      "height": 1698
+                    },
+                    {
+                      "width": 1209,
+                      "height": 849
+                    },
+                    {
+                      "width": 605,
+                      "height": 425
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/48",
+          "@type": "sc:Canvas",
+          "label": "Page 20",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/48",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/48",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/48",
+                  "height": 6814,
+                  "width": 9640,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9640,
+                      "height": 6814
+                    },
+                    {
+                      "width": 4820,
+                      "height": 3407
+                    },
+                    {
+                      "width": 2410,
+                      "height": 1704
+                    },
+                    {
+                      "width": 1205,
+                      "height": 852
+                    },
+                    {
+                      "width": 603,
+                      "height": 426
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/49",
+          "@type": "sc:Canvas",
+          "label": "Page 21",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/49",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/49",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/49",
+                  "height": 6815,
+                  "width": 9614,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9614,
+                      "height": 6815
+                    },
+                    {
+                      "width": 4807,
+                      "height": 3408
+                    },
+                    {
+                      "width": 2404,
+                      "height": 1704
+                    },
+                    {
+                      "width": 1202,
+                      "height": 852
+                    },
+                    {
+                      "width": 601,
+                      "height": 426
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/50",
+          "@type": "sc:Canvas",
+          "label": "Page 22",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/50",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/50",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/50",
+                  "height": 6770,
+                  "width": 9575,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9575,
+                      "height": 6770
+                    },
+                    {
+                      "width": 4788,
+                      "height": 3385
+                    },
+                    {
+                      "width": 2394,
+                      "height": 1693
+                    },
+                    {
+                      "width": 1197,
+                      "height": 846
+                    },
+                    {
+                      "width": 598,
+                      "height": 423
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/51",
+          "@type": "sc:Canvas",
+          "label": "Page 23",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/51",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/51",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/51",
+                  "height": 6598,
+                  "width": 9392,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9392,
+                      "height": 6598
+                    },
+                    {
+                      "width": 4696,
+                      "height": 3299
+                    },
+                    {
+                      "width": 2348,
+                      "height": 1650
+                    },
+                    {
+                      "width": 1174,
+                      "height": 825
+                    },
+                    {
+                      "width": 587,
+                      "height": 412
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/52",
+          "@type": "sc:Canvas",
+          "label": "Page 24",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/52",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/52",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/52",
+                  "height": 6807,
+                  "width": 9466,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9466,
+                      "height": 6807
+                    },
+                    {
+                      "width": 4733,
+                      "height": 3404
+                    },
+                    {
+                      "width": 2367,
+                      "height": 1702
+                    },
+                    {
+                      "width": 1183,
+                      "height": 851
+                    },
+                    {
+                      "width": 592,
+                      "height": 425
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/53",
+          "@type": "sc:Canvas",
+          "label": "Page 25",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/53",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/53",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/53",
+                  "height": 6737,
+                  "width": 9821,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9821,
+                      "height": 6737
+                    },
+                    {
+                      "width": 4911,
+                      "height": 3369
+                    },
+                    {
+                      "width": 2455,
+                      "height": 1684
+                    },
+                    {
+                      "width": 1228,
+                      "height": 842
+                    },
+                    {
+                      "width": 614,
+                      "height": 421
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/54",
+          "@type": "sc:Canvas",
+          "label": "Page 26",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/54",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/54",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/54",
+                  "height": 6835,
+                  "width": 9322,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9322,
+                      "height": 6835
+                    },
+                    {
+                      "width": 4661,
+                      "height": 3418
+                    },
+                    {
+                      "width": 2331,
+                      "height": 1709
+                    },
+                    {
+                      "width": 1165,
+                      "height": 854
+                    },
+                    {
+                      "width": 583,
+                      "height": 427
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/55",
+          "@type": "sc:Canvas",
+          "label": "Page 27",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/55",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/55",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/55",
+                  "height": 6846,
+                  "width": 9472,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9472,
+                      "height": 6846
+                    },
+                    {
+                      "width": 4736,
+                      "height": 3423
+                    },
+                    {
+                      "width": 2368,
+                      "height": 1712
+                    },
+                    {
+                      "width": 1184,
+                      "height": 856
+                    },
+                    {
+                      "width": 592,
+                      "height": 428
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/56",
+          "@type": "sc:Canvas",
+          "label": "Page 28",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/56",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/56",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/56",
+                  "height": 6881,
+                  "width": 9398,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9398,
+                      "height": 6881
+                    },
+                    {
+                      "width": 4699,
+                      "height": 3441
+                    },
+                    {
+                      "width": 2350,
+                      "height": 1720
+                    },
+                    {
+                      "width": 1175,
+                      "height": 860
+                    },
+                    {
+                      "width": 587,
+                      "height": 430
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/57",
+          "@type": "sc:Canvas",
+          "label": "Page 29",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/57",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/57",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/57",
+                  "height": 6755,
+                  "width": 9486,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9486,
+                      "height": 6755
+                    },
+                    {
+                      "width": 4743,
+                      "height": 3378
+                    },
+                    {
+                      "width": 2372,
+                      "height": 1689
+                    },
+                    {
+                      "width": 1186,
+                      "height": 844
+                    },
+                    {
+                      "width": 593,
+                      "height": 422
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/58",
+          "@type": "sc:Canvas",
+          "label": "Page 30",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/58",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/58",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/58",
+                  "height": 6703,
+                  "width": 9394,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9394,
+                      "height": 6703
+                    },
+                    {
+                      "width": 4697,
+                      "height": 3352
+                    },
+                    {
+                      "width": 2349,
+                      "height": 1676
+                    },
+                    {
+                      "width": 1174,
+                      "height": 838
+                    },
+                    {
+                      "width": 587,
+                      "height": 419
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/59",
+          "@type": "sc:Canvas",
+          "label": "Page 31",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/59",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/59",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/59",
+                  "height": 6824,
+                  "width": 10063,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 10063,
+                      "height": 6824
+                    },
+                    {
+                      "width": 5032,
+                      "height": 3412
+                    },
+                    {
+                      "width": 2516,
+                      "height": 1706
+                    },
+                    {
+                      "width": 1258,
+                      "height": 853
+                    },
+                    {
+                      "width": 629,
+                      "height": 427
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/60",
+          "@type": "sc:Canvas",
+          "label": "Page 32",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/60",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/60",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/60",
+                  "height": 6817,
+                  "width": 9206,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9206,
+                      "height": 6817
+                    },
+                    {
+                      "width": 4603,
+                      "height": 3409
+                    },
+                    {
+                      "width": 2302,
+                      "height": 1704
+                    },
+                    {
+                      "width": 1151,
+                      "height": 852
+                    },
+                    {
+                      "width": 575,
+                      "height": 426
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/61",
+          "@type": "sc:Canvas",
+          "label": "Page 33",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/61",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/61",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/61",
+                  "height": 6822,
+                  "width": 9762,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9762,
+                      "height": 6822
+                    },
+                    {
+                      "width": 4881,
+                      "height": 3411
+                    },
+                    {
+                      "width": 2441,
+                      "height": 1706
+                    },
+                    {
+                      "width": 1220,
+                      "height": 853
+                    },
+                    {
+                      "width": 610,
+                      "height": 426
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/62",
+          "@type": "sc:Canvas",
+          "label": "Page 34",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/62",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/62",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/62",
+                  "height": 6786,
+                  "width": 9620,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9620,
+                      "height": 6786
+                    },
+                    {
+                      "width": 4810,
+                      "height": 3393
+                    },
+                    {
+                      "width": 2405,
+                      "height": 1697
+                    },
+                    {
+                      "width": 1203,
+                      "height": 848
+                    },
+                    {
+                      "width": 601,
+                      "height": 424
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/63",
+          "@type": "sc:Canvas",
+          "label": "Page 35",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/63",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/63",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/63",
+                  "height": 6745,
+                  "width": 10056,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 10056,
+                      "height": 6745
+                    },
+                    {
+                      "width": 5028,
+                      "height": 3373
+                    },
+                    {
+                      "width": 2514,
+                      "height": 1686
+                    },
+                    {
+                      "width": 1257,
+                      "height": 843
+                    },
+                    {
+                      "width": 629,
+                      "height": 422
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/64",
+          "@type": "sc:Canvas",
+          "label": "Page 36",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/64",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/64",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/64",
+                  "height": 6881,
+                  "width": 9539,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9539,
+                      "height": 6881
+                    },
+                    {
+                      "width": 4770,
+                      "height": 3441
+                    },
+                    {
+                      "width": 2385,
+                      "height": 1720
+                    },
+                    {
+                      "width": 1192,
+                      "height": 860
+                    },
+                    {
+                      "width": 596,
+                      "height": 430
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/65",
+          "@type": "sc:Canvas",
+          "label": "Page 37",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/65",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/65",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/65",
+                  "height": 6798,
+                  "width": 9490,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 9490,
+                      "height": 6798
+                    },
+                    {
+                      "width": 4745,
+                      "height": 3399
+                    },
+                    {
+                      "width": 2373,
+                      "height": 1700
+                    },
+                    {
+                      "width": 1186,
+                      "height": 850
+                    },
+                    {
+                      "width": 593,
+                      "height": 425
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/66",
+          "@type": "sc:Canvas",
+          "label": "Page 38",
+          "height": 1500,
+          "width": 1500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/66",
+              "resource": {
+                "@id": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll205/id/66",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/digital/iiif/p16022coll205/66",
+                  "height": 6703,
+                  "width": 5009,
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json"
+                  ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [
+                    {
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ],
+                      "width": 1024
+                    }
+                  ],
+                  "sizes": [
+                    {
+                      "width": 5009,
+                      "height": 6703
+                    },
+                    {
+                      "width": 2505,
+                      "height": 3352
+                    },
+                    {
+                      "width": 1252,
+                      "height": 1676
+                    },
+                    {
+                      "width": 626,
+                      "height": 838
+                    },
+                    {
+                      "width": 313,
+                      "height": 419
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
