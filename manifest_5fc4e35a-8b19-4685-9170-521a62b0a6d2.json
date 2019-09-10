@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://raw.githubusercontent.com/BTAA-Geospatial-Data-Project/iiif-manifests/master/manifest_5fc4e35a-8b19-4685-9170-521a62b0a6d2.json",
   "@type": "sc:Manifest",
-  "label": "Atlas of the city of New York : from official records, private plans and actual surveys, volume 3",
+  "label": "Atlas of the city of New York : from official records, private plans and actual surveys, volume 2",
   "metadata": [
     {
       "label": "format",
